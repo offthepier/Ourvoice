@@ -1,0 +1,1267 @@
+{
+    "Items": [
+        {
+            "surveyId": {
+                "S": "a39bf7dd-4498-4922-9a9a-02d89d5e492e"
+            },
+            "questionId": {
+                "S": "e18d3ede-bff5-4d0d-a692-de86688b6fc0"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "answerId": {
+                "S": "0b49c8b5-2c8f-4bbb-a1db-217a73dddb0d"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "4dba9c42-36b7-422e-999d-c4fe83417a45"
+            },
+            "questionId": {
+                "S": "cfc7265e-4bf3-44c7-96e3-87e366f91db9"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "answerId": {
+                "S": "0b8fd814-d34a-464c-b7f0-d4d07c252850"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "4dba9c42-36b7-422e-999d-c4fe83417a45"
+            },
+            "questionId": {
+                "S": "cfc7265e-4bf3-44c7-96e3-87e366f91db9"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "answerId": {
+                "S": "1a2c8c99-3739-4e2a-9a83-fb6c1f6358a1"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "4dba9c42-36b7-422e-999d-c4fe83417a45"
+            },
+            "questionId": {
+                "S": "cfc7265e-4bf3-44c7-96e3-87e366f91db9"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "answerId": {
+                "S": "1ca0bf67-4170-4937-9e8b-1fba14e329f2"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "a39bf7dd-4498-4922-9a9a-02d89d5e492e"
+            },
+            "questionId": {
+                "S": "e18d3ede-bff5-4d0d-a692-de86688b6fc0"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "answerId": {
+                "S": "3bb3165e-fdd4-42c4-bce9-2d9f70f6dd03"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "4dba9c42-36b7-422e-999d-c4fe83417a45"
+            },
+            "questionId": {
+                "S": "cfc7265e-4bf3-44c7-96e3-87e366f91db9"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "answerId": {
+                "S": "400972c9-0b99-4e4e-9ac1-7490eda52a19"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "bbf876ac-6abb-456a-9639-9e6f329c9f82"
+            },
+            "questionId": {
+                "S": "c4b38982-9a83-4dd8-933c-a7cad16e1ceb"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "answerId": {
+                "S": "400fa991-6041-43f8-a607-83bf029b89f7"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "a39bf7dd-4498-4922-9a9a-02d89d5e492e"
+            },
+            "questionId": {
+                "S": "e18d3ede-bff5-4d0d-a692-de86688b6fc0"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "answerId": {
+                "S": "55a0a0a6-cd83-4ece-b589-e5987d2e60b4"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "a39bf7dd-4498-4922-9a9a-02d89d5e492e"
+            },
+            "questionId": {
+                "S": "e18d3ede-bff5-4d0d-a692-de86688b6fc0"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "answerId": {
+                "S": "5be0f705-0bb7-45d4-a750-213435b0ae4c"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "a39bf7dd-4498-4922-9a9a-02d89d5e492e"
+            },
+            "questionId": {
+                "S": "e18d3ede-bff5-4d0d-a692-de86688b6fc0"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "answerId": {
+                "S": "64f7587e-5b58-4185-8aa8-ef70ee7a9f54"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "4dba9c42-36b7-422e-999d-c4fe83417a45"
+            },
+            "questionId": {
+                "S": "2cc03c2d-9ccd-4100-a8be-ebb39d82c99b"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "answerId": {
+                "S": "8f15f362-d400-4b85-8cf4-d8e506929fb0"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "4dba9c42-36b7-422e-999d-c4fe83417a45"
+            },
+            "questionId": {
+                "S": "cfc7265e-4bf3-44c7-96e3-87e366f91db9"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "answerId": {
+                "S": "8f688330-e739-4883-bf82-9f619087b7af"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "a39bf7dd-4498-4922-9a9a-02d89d5e492e"
+            },
+            "questionId": {
+                "S": "e18d3ede-bff5-4d0d-a692-de86688b6fc0"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "answerId": {
+                "S": "96db29bb-ffe3-412c-907e-0c750e3865ba"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "4dba9c42-36b7-422e-999d-c4fe83417a45"
+            },
+            "questionId": {
+                "S": "cfc7265e-4bf3-44c7-96e3-87e366f91db9"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "answerId": {
+                "S": "9960865c-cb40-4f3b-ba41-a6e988d52d93"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "a39bf7dd-4498-4922-9a9a-02d89d5e492e"
+            },
+            "questionId": {
+                "S": "e18d3ede-bff5-4d0d-a692-de86688b6fc0"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "answerId": {
+                "S": "9ca66c3a-c3ac-49f5-8847-4e05c5007bbf"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "a39bf7dd-4498-4922-9a9a-02d89d5e492e"
+            },
+            "questionId": {
+                "S": "e18d3ede-bff5-4d0d-a692-de86688b6fc0"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "answerId": {
+                "S": "ad925402-9fa8-489f-b9f1-a98f9bf50faf"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "bbf876ac-6abb-456a-9639-9e6f329c9f82"
+            },
+            "questionId": {
+                "S": "c4b38982-9a83-4dd8-933c-a7cad16e1ceb"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "answerId": {
+                "S": "c9a8fbaa-3d45-4c4d-b693-13e739a4e37c"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "a39bf7dd-4498-4922-9a9a-02d89d5e492e"
+            },
+            "questionId": {
+                "S": "e18d3ede-bff5-4d0d-a692-de86688b6fc0"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "answerId": {
+                "S": "e442528d-67ea-4412-9c95-874d64d57a04"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "a39bf7dd-4498-4922-9a9a-02d89d5e492e"
+            },
+            "questionId": {
+                "S": "e18d3ede-bff5-4d0d-a692-de86688b6fc0"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "answerId": {
+                "S": "f834f698-f8ed-4168-a656-f6e4618fbdb0"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "4dba9c42-36b7-422e-999d-c4fe83417a45"
+            },
+            "questionId": {
+                "S": "cfc7265e-4bf3-44c7-96e3-87e366f91db9"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "answerId": {
+                "S": "fe1b2681-7559-4f42-a1c3-a94620b751e8"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "eaa1dccf-56b7-4419-9988-399677a72d3a"
+            },
+            "questionId": {
+                "S": "5843e116-98a5-4622-8633-e7aa1e1f6232"
+            },
+            "userID": {
+                "S": "teraba@lyricspad.net"
+            },
+            "answerId": {
+                "S": "4d3fae51-e935-4f28-9f73-828ff0ada7ed"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "eaa1dccf-56b7-4419-9988-399677a72d3a"
+            },
+            "questionId": {
+                "S": "eccac3ff-c47e-45c2-a8b0-7e57d6518c39"
+            },
+            "userID": {
+                "S": "teraba@lyricspad.net"
+            },
+            "answerId": {
+                "S": "52df0f33-ada8-4cb4-a7d6-c28990065142"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "eaa1dccf-56b7-4419-9988-399677a72d3a"
+            },
+            "questionId": {
+                "S": "5843e116-98a5-4622-8633-e7aa1e1f6232"
+            },
+            "userID": {
+                "S": "teraba@lyricspad.net"
+            },
+            "answerId": {
+                "S": "6d21259d-6ab7-4dc4-bbc7-fbca44550420"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "eaa1dccf-56b7-4419-9988-399677a72d3a"
+            },
+            "questionId": {
+                "S": "eccac3ff-c47e-45c2-a8b0-7e57d6518c39"
+            },
+            "userID": {
+                "S": "teraba@lyricspad.net"
+            },
+            "answerId": {
+                "S": "723d8cd2-2943-4797-a588-433aa5c96881"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "eaa1dccf-56b7-4419-9988-399677a72d3a"
+            },
+            "questionId": {
+                "S": "eccac3ff-c47e-45c2-a8b0-7e57d6518c39"
+            },
+            "userID": {
+                "S": "teraba@lyricspad.net"
+            },
+            "answerId": {
+                "S": "ff1ed68e-1ec2-4972-a54d-c359ae574da2"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "92deb59d-61a0-4793-adf5-3f83e361f86c"
+            },
+            "questionId": {
+                "S": "6eabe907-801c-49dd-8e1c-a416930b39d4"
+            },
+            "userID": {
+                "S": "hevame5665@mitigado.com"
+            },
+            "answerId": {
+                "S": "2249346f-7324-4994-b37f-678ea03b4a57"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "901d61d9-e32b-4364-8778-0448a7b04921"
+            },
+            "questionId": {
+                "S": "bc86b13b-58bd-4807-a574-cb310886007e"
+            },
+            "userID": {
+                "S": "hevame5665@mitigado.com"
+            },
+            "answerId": {
+                "S": "4a76d790-176d-4244-9e3f-c5a4c67658a6"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "901d61d9-e32b-4364-8778-0448a7b04921"
+            },
+            "questionId": {
+                "S": "7ff1eb08-57a4-4f9c-9f5f-d5555aad4d5c"
+            },
+            "userID": {
+                "S": "hevame5665@mitigado.com"
+            },
+            "answerId": {
+                "S": "7bcbfdbf-b04e-460b-a708-851f577b4fcd"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "dacf72d3-66d7-4bc0-9068-04f94c039c8b"
+            },
+            "questionId": {
+                "S": "197e2164-6e24-4eb4-90f5-02304d36a401"
+            },
+            "userID": {
+                "S": "hevame5665@mitigado.com"
+            },
+            "answerId": {
+                "S": "91e0eeaa-7700-4e82-ac31-fc831a488d67"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "dacf72d3-66d7-4bc0-9068-04f94c039c8b"
+            },
+            "questionId": {
+                "S": "25ac2570-1b9e-42db-98f2-0e37849e8fbe"
+            },
+            "userID": {
+                "S": "hevame5665@mitigado.com"
+            },
+            "answerId": {
+                "S": "bba4ba36-f26e-49d7-aa82-2f07b62e8270"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "dacf72d3-66d7-4bc0-9068-04f94c039c8b"
+            },
+            "questionId": {
+                "S": "197e2164-6e24-4eb4-90f5-02304d36a401"
+            },
+            "userID": {
+                "S": "hevame5665@mitigado.com"
+            },
+            "answerId": {
+                "S": "c7d01eca-9a2d-40ca-8751-1894470ab27c"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "901d61d9-e32b-4364-8778-0448a7b04921"
+            },
+            "questionId": {
+                "S": "bc86b13b-58bd-4807-a574-cb310886007e"
+            },
+            "userID": {
+                "S": "hevame5665@mitigado.com"
+            },
+            "answerId": {
+                "S": "ca7562b9-ff47-4e5d-8c01-19836b145e36"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "92deb59d-61a0-4793-adf5-3f83e361f86c"
+            },
+            "questionId": {
+                "S": "6eabe907-801c-49dd-8e1c-a416930b39d4"
+            },
+            "userID": {
+                "S": "hevame5665@mitigado.com"
+            },
+            "answerId": {
+                "S": "cc28c62c-abee-4d65-a0a4-2d1791f13fea"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "92deb59d-61a0-4793-adf5-3f83e361f86c"
+            },
+            "questionId": {
+                "S": "0294c9fa-5d52-49ab-b93e-97131f8cc887"
+            },
+            "userID": {
+                "S": "hevame5665@mitigado.com"
+            },
+            "answerId": {
+                "S": "f6720dff-8257-449f-9032-8528ede62366"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "4367f078-581f-48e6-9184-bc4aa8564450"
+            },
+            "questionId": {
+                "S": "c9877549-f160-41cc-9c97-b10ebce68644"
+            },
+            "userID": {
+                "S": "krishnaswivel@gmail.com"
+            },
+            "answerId": {
+                "S": "4d6bfc66-e34b-4459-a9a5-e3d4b2724b6b"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "5ef56f8a-b749-45a0-bb85-2ace78ee74d5"
+            },
+            "questionId": {
+                "S": "9a1d8718-49b9-4ad7-8c89-0f44d36ccd7e"
+            },
+            "userID": {
+                "S": "krishnaswivel@gmail.com"
+            },
+            "answerId": {
+                "S": "9fabeb17-fa30-4768-8b21-274bf2a375b9"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "8eb7fb3d-e565-4a5f-bb24-62666d13382f"
+            },
+            "questionId": {
+                "S": "874af904-8b59-4e25-a384-0515aa50a091"
+            },
+            "userID": {
+                "S": "krishnaswivel@gmail.com"
+            },
+            "answerId": {
+                "S": "ac365b4f-d10c-4511-9bdf-2902891bb409"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "ce75d68a-0690-46b1-9ad9-466f3cf95e9e"
+            },
+            "questionId": {
+                "S": "fe810417-4fd6-4b8e-acc9-8e9f4772cdf2"
+            },
+            "userID": {
+                "S": "krishnaswivel@gmail.com"
+            },
+            "answerId": {
+                "S": "b62a7931-6763-4547-b586-66b542d94ba9"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "47ae9e93-4d37-4104-afb0-bca595dc7f0c"
+            },
+            "questionId": {
+                "S": "71afb524-1afc-45de-8cec-2df58aab335f"
+            },
+            "userID": {
+                "S": "zydezymu@lyft.live"
+            },
+            "answerId": {
+                "S": "23d05fc8-50e3-40f3-bea4-72dba165cb11"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "8d3719ce-2602-4f82-a5ca-2b7b2437c183"
+            },
+            "questionId": {
+                "S": "ae3ac6c7-5e51-4839-98c9-d1f297502164"
+            },
+            "userID": {
+                "S": "zydezymu@lyft.live"
+            },
+            "answerId": {
+                "S": "c7df8532-0e25-47ff-8a7c-904a1828b4d0"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "658f39e7-c80a-4f10-82b8-d4b1e2ad1969"
+            },
+            "questionId": {
+                "S": "276c9b9d-f6ec-4675-88e7-bf8f0b952133"
+            },
+            "userID": {
+                "S": "zeeshan10ansari@gmail.com"
+            },
+            "answerId": {
+                "S": "636f1972-5d8a-43aa-ac4a-6018201ed9e0"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "658f39e7-c80a-4f10-82b8-d4b1e2ad1969"
+            },
+            "questionId": {
+                "S": "276c9b9d-f6ec-4675-88e7-bf8f0b952133"
+            },
+            "userID": {
+                "S": "susan.lengyel@gmail.com"
+            },
+            "answerId": {
+                "S": "636f1972-5d8a-43aa-ac4a-6018201ed9e0"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "0bc6f056-f544-4272-98c9-1e9d5a92da18"
+            },
+            "questionId": {
+                "S": "d5adaaf3-f47e-4530-b6f9-46f792e12df6"
+            },
+            "userID": {
+                "S": "suxixomy@brand-app.biz"
+            },
+            "answerId": {
+                "S": "54f6cf11-2661-46fd-a0f9-395f523794c1"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "0bc6f056-f544-4272-98c9-1e9d5a92da18"
+            },
+            "questionId": {
+                "S": "d5cac393-a2ce-4e64-9d4b-d5a614baf7d8"
+            },
+            "userID": {
+                "S": "suxixomy@brand-app.biz"
+            },
+            "answerId": {
+                "S": "620171db-0120-4be0-a281-2cba85eadf48"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "0bc6f056-f544-4272-98c9-1e9d5a92da18"
+            },
+            "questionId": {
+                "S": "d5cac393-a2ce-4e64-9d4b-d5a614baf7d8"
+            },
+            "userID": {
+                "S": "suxixomy@brand-app.biz"
+            },
+            "answerId": {
+                "S": "7822ddc2-7b5a-4ab3-a2d7-754ad1ee10bf"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "0bc6f056-f544-4272-98c9-1e9d5a92da18"
+            },
+            "questionId": {
+                "S": "5ce3ea5b-014e-41a5-b017-cdb2cb99badc"
+            },
+            "userID": {
+                "S": "suxixomy@brand-app.biz"
+            },
+            "answerId": {
+                "S": "7bdcafd2-d208-4d1a-9fba-f767bda08904"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "0bc6f056-f544-4272-98c9-1e9d5a92da18"
+            },
+            "questionId": {
+                "S": "52007d0d-1f46-458d-a680-7866d1266ae9"
+            },
+            "userID": {
+                "S": "suxixomy@brand-app.biz"
+            },
+            "answerId": {
+                "S": "87fb6f24-31a9-4c42-a570-7f5c5e5be1de"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "0bc6f056-f544-4272-98c9-1e9d5a92da18"
+            },
+            "questionId": {
+                "S": "b797b568-5dea-4442-af4b-90aa44406e56"
+            },
+            "userID": {
+                "S": "suxixomy@brand-app.biz"
+            },
+            "answerId": {
+                "S": "a90d0bd4-a5cc-4428-9b8f-04f38dd85e30"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "0bc6f056-f544-4272-98c9-1e9d5a92da18"
+            },
+            "questionId": {
+                "S": "d5cac393-a2ce-4e64-9d4b-d5a614baf7d8"
+            },
+            "userID": {
+                "S": "suxixomy@brand-app.biz"
+            },
+            "answerId": {
+                "S": "e011c144-52f2-4bbc-ab1b-000d6c7eeb1c"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "7d432143-b052-4222-bd9e-19e1690f21c4"
+            },
+            "questionId": {
+                "S": "4cb9757b-9947-4f36-8b3a-e9c8c18a0bfb"
+            },
+            "userID": {
+                "S": "pefiheha@decabg.eu"
+            },
+            "answerId": {
+                "S": "cdbb278c-16aa-4fab-a0f0-893a42851aca"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "769ecc76-a801-4abe-a57f-32946e01913b"
+            },
+            "questionId": {
+                "S": "2f9fb836-3902-49ad-91e9-2c0e6fc2e97e"
+            },
+            "userID": {
+                "S": "covalschicarmen@gmail.com"
+            },
+            "answerId": {
+                "S": "6bcf050c-29d7-4607-bd5a-421e47848c2d"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "769ecc76-a801-4abe-a57f-32946e01913b"
+            },
+            "questionId": {
+                "S": "2f9fb836-3902-49ad-91e9-2c0e6fc2e97e"
+            },
+            "userID": {
+                "S": "covalschicarmen@gmail.com"
+            },
+            "answerId": {
+                "S": "da39c174-94d6-431b-b03d-a7890c4427d2"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "4bb80dd1-48a5-4666-aede-b39482a842c8"
+            },
+            "questionId": {
+                "S": "7502ec2f-5f84-4e94-a01b-401c21137a44"
+            },
+            "userID": {
+                "S": "eddie.kowalski@gmail.com"
+            },
+            "answerId": {
+                "S": "16fa28c7-41d4-4e81-a310-e8e13f45876e"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "9c0d84ce-5352-41da-8400-eedd163a00a5"
+            },
+            "questionId": {
+                "S": "5613c8c8-4577-4bc4-8e08-ad72b101ef9c"
+            },
+            "userID": {
+                "S": "eddie.kowalski@gmail.com"
+            },
+            "answerId": {
+                "S": "1e08251f-46a1-41c9-b5a3-65b732c2668c"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "f22b9d82-5150-44e2-aa42-9158be988c32"
+            },
+            "questionId": {
+                "S": "e9927d0b-229d-4662-b56c-7785dabc467f"
+            },
+            "userID": {
+                "S": "eddie.kowalski@gmail.com"
+            },
+            "answerId": {
+                "S": "2d2b69d8-c445-4564-b2ab-b874bd9dd55d"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "da87e09b-bbc9-47b5-88dc-ccb39dd5c7f8"
+            },
+            "questionId": {
+                "S": "72137d45-e1fe-4858-9003-05c2b7edd222"
+            },
+            "userID": {
+                "S": "eddie.kowalski@gmail.com"
+            },
+            "answerId": {
+                "S": "6011f116-c792-4fe4-a542-c5cb00c6eb45"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "658f39e7-c80a-4f10-82b8-d4b1e2ad1969"
+            },
+            "questionId": {
+                "S": "276c9b9d-f6ec-4675-88e7-bf8f0b952133"
+            },
+            "userID": {
+                "S": "eddie.kowalski@gmail.com"
+            },
+            "answerId": {
+                "S": "636f1972-5d8a-43aa-ac4a-6018201ed9e0"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "46f52c65-3117-4607-93fa-417b11094d4f"
+            },
+            "questionId": {
+                "S": "82acdc58-2f2b-4974-84a1-f09bc6a769f5"
+            },
+            "userID": {
+                "S": "eddie.kowalski@gmail.com"
+            },
+            "answerId": {
+                "S": "653c74f4-dced-4450-9830-081478f31cfe"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "769ecc76-a801-4abe-a57f-32946e01913b"
+            },
+            "questionId": {
+                "S": "2f9fb836-3902-49ad-91e9-2c0e6fc2e97e"
+            },
+            "userID": {
+                "S": "eddie.kowalski@gmail.com"
+            },
+            "answerId": {
+                "S": "6bcf050c-29d7-4607-bd5a-421e47848c2d"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "769ecc76-a801-4abe-a57f-32946e01913b"
+            },
+            "questionId": {
+                "S": "2f9fb836-3902-49ad-91e9-2c0e6fc2e97e"
+            },
+            "userID": {
+                "S": "eddie.kowalski@gmail.com"
+            },
+            "answerId": {
+                "S": "71a3e4ee-fcf6-4045-8903-099818aba83a"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "571ac4e8-0cad-43bb-b0df-5eabe8dd3d0b"
+            },
+            "questionId": {
+                "S": "b7339a95-5b1e-46ea-a9b6-6b776975ea4c"
+            },
+            "userID": {
+                "S": "eddie.kowalski@gmail.com"
+            },
+            "answerId": {
+                "S": "83f21ec1-987b-4653-b2ed-9e656cf70060"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "e704b80d-dfc7-403b-886c-54846deec608"
+            },
+            "questionId": {
+                "S": "b9877aaf-94ca-4f2b-bf9f-f9e11220af10"
+            },
+            "userID": {
+                "S": "eddie.kowalski@gmail.com"
+            },
+            "answerId": {
+                "S": "d609c7c0-65bc-4a8a-8d85-4a1544b1488e"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "769ecc76-a801-4abe-a57f-32946e01913b"
+            },
+            "questionId": {
+                "S": "2f9fb836-3902-49ad-91e9-2c0e6fc2e97e"
+            },
+            "userID": {
+                "S": "eddie.kowalski@gmail.com"
+            },
+            "answerId": {
+                "S": "da39c174-94d6-431b-b03d-a7890c4427d2"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "769ecc76-a801-4abe-a57f-32946e01913b"
+            },
+            "questionId": {
+                "S": "2f9fb836-3902-49ad-91e9-2c0e6fc2e97e"
+            },
+            "userID": {
+                "S": "eddie.kowalski@gmail.com"
+            },
+            "answerId": {
+                "S": "e976db6a-b533-4720-85b1-648a4b7e13f9"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "ce75d68a-0690-46b1-9ad9-466f3cf95e9e"
+            },
+            "questionId": {
+                "S": "fe810417-4fd6-4b8e-acc9-8e9f4772cdf2"
+            },
+            "userID": {
+                "S": "ashleigh@speckledigital.com"
+            },
+            "answerId": {
+                "S": "2202442a-91dc-4503-bd52-de2494444b3f"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "0bc6f056-f544-4272-98c9-1e9d5a92da18"
+            },
+            "questionId": {
+                "S": "b797b568-5dea-4442-af4b-90aa44406e56"
+            },
+            "userID": {
+                "S": "xovemafa@lyricspad.net"
+            },
+            "answerId": {
+                "S": "055242ef-c0f3-4598-8775-307d59400138"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "0bc6f056-f544-4272-98c9-1e9d5a92da18"
+            },
+            "questionId": {
+                "S": "52007d0d-1f46-458d-a680-7866d1266ae9"
+            },
+            "userID": {
+                "S": "xovemafa@lyricspad.net"
+            },
+            "answerId": {
+                "S": "0c231b89-c966-4f88-89bd-7244624bed2e"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "0bc6f056-f544-4272-98c9-1e9d5a92da18"
+            },
+            "questionId": {
+                "S": "d5cac393-a2ce-4e64-9d4b-d5a614baf7d8"
+            },
+            "userID": {
+                "S": "xovemafa@lyricspad.net"
+            },
+            "answerId": {
+                "S": "494b50e5-9b34-4764-b82d-c18bb39c4344"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "0bc6f056-f544-4272-98c9-1e9d5a92da18"
+            },
+            "questionId": {
+                "S": "d5adaaf3-f47e-4530-b6f9-46f792e12df6"
+            },
+            "userID": {
+                "S": "xovemafa@lyricspad.net"
+            },
+            "answerId": {
+                "S": "54f6cf11-2661-46fd-a0f9-395f523794c1"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "0bc6f056-f544-4272-98c9-1e9d5a92da18"
+            },
+            "questionId": {
+                "S": "5ce3ea5b-014e-41a5-b017-cdb2cb99badc"
+            },
+            "userID": {
+                "S": "xovemafa@lyricspad.net"
+            },
+            "answerId": {
+                "S": "575fdb22-1c1e-4b5e-ad7d-fbe091916f6b"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "8fd46436-d74f-4d65-be58-0322933e6eef"
+            },
+            "questionId": {
+                "S": "78d58b4a-fc10-467f-aa2a-088a513055e0"
+            },
+            "userID": {
+                "S": "xovemafa@lyricspad.net"
+            },
+            "answerId": {
+                "S": "7298db3d-c019-4825-aa24-b7e7dd46ef85"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "0bc6f056-f544-4272-98c9-1e9d5a92da18"
+            },
+            "questionId": {
+                "S": "d5cac393-a2ce-4e64-9d4b-d5a614baf7d8"
+            },
+            "userID": {
+                "S": "xovemafa@lyricspad.net"
+            },
+            "answerId": {
+                "S": "af9c6c5b-f7f8-4f9c-ad81-dd3e3e9c469f"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "b8945cc4-b12f-4906-95c5-9f7696eb86f7"
+            },
+            "questionId": {
+                "S": "27f9edb9-940d-4407-96ee-f8531bda5284"
+            },
+            "userID": {
+                "S": "xovemafa@lyricspad.net"
+            },
+            "answerId": {
+                "S": "b3a53ed7-cb7e-412d-9137-5f18fa08f06c"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "8fd46436-d74f-4d65-be58-0322933e6eef"
+            },
+            "questionId": {
+                "S": "78d58b4a-fc10-467f-aa2a-088a513055e0"
+            },
+            "userID": {
+                "S": "xovemafa@lyricspad.net"
+            },
+            "answerId": {
+                "S": "b86bab81-3d51-46c3-8fcb-1faeb052f805"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "658f39e7-c80a-4f10-82b8-d4b1e2ad1969"
+            },
+            "questionId": {
+                "S": "276c9b9d-f6ec-4675-88e7-bf8f0b952133"
+            },
+            "userID": {
+                "S": "1071890207@qq.com"
+            },
+            "answerId": {
+                "S": "636f1972-5d8a-43aa-ac4a-6018201ed9e0"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "658f39e7-c80a-4f10-82b8-d4b1e2ad1969"
+            },
+            "questionId": {
+                "S": "276c9b9d-f6ec-4675-88e7-bf8f0b952133"
+            },
+            "userID": {
+                "S": "ksch0312@uni.sydney.edu.au"
+            },
+            "answerId": {
+                "S": "636f1972-5d8a-43aa-ac4a-6018201ed9e0"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "5ef56f8a-b749-45a0-bb85-2ace78ee74d5"
+            },
+            "questionId": {
+                "S": "9a1d8718-49b9-4ad7-8c89-0f44d36ccd7e"
+            },
+            "userID": {
+                "S": "s18002156@ousl.lk"
+            },
+            "answerId": {
+                "S": "9fabeb17-fa30-4768-8b21-274bf2a375b9"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "92deb59d-61a0-4793-adf5-3f83e361f86c"
+            },
+            "questionId": {
+                "S": "6eabe907-801c-49dd-8e1c-a416930b39d4"
+            },
+            "userID": {
+                "S": "covoh52463@mitigado.com"
+            },
+            "answerId": {
+                "S": "2249346f-7324-4994-b37f-678ea03b4a57"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "dacf72d3-66d7-4bc0-9068-04f94c039c8b"
+            },
+            "questionId": {
+                "S": "197e2164-6e24-4eb4-90f5-02304d36a401"
+            },
+            "userID": {
+                "S": "covoh52463@mitigado.com"
+            },
+            "answerId": {
+                "S": "91e0eeaa-7700-4e82-ac31-fc831a488d67"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "dacf72d3-66d7-4bc0-9068-04f94c039c8b"
+            },
+            "questionId": {
+                "S": "25ac2570-1b9e-42db-98f2-0e37849e8fbe"
+            },
+            "userID": {
+                "S": "covoh52463@mitigado.com"
+            },
+            "answerId": {
+                "S": "bba4ba36-f26e-49d7-aa82-2f07b62e8270"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "dacf72d3-66d7-4bc0-9068-04f94c039c8b"
+            },
+            "questionId": {
+                "S": "197e2164-6e24-4eb4-90f5-02304d36a401"
+            },
+            "userID": {
+                "S": "covoh52463@mitigado.com"
+            },
+            "answerId": {
+                "S": "c7d01eca-9a2d-40ca-8751-1894470ab27c"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "92deb59d-61a0-4793-adf5-3f83e361f86c"
+            },
+            "questionId": {
+                "S": "6eabe907-801c-49dd-8e1c-a416930b39d4"
+            },
+            "userID": {
+                "S": "covoh52463@mitigado.com"
+            },
+            "answerId": {
+                "S": "cc28c62c-abee-4d65-a0a4-2d1791f13fea"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "dacf72d3-66d7-4bc0-9068-04f94c039c8b"
+            },
+            "questionId": {
+                "S": "197e2164-6e24-4eb4-90f5-02304d36a401"
+            },
+            "userID": {
+                "S": "covoh52463@mitigado.com"
+            },
+            "answerId": {
+                "S": "e45b6acd-3754-45f7-bac7-36815fdf85b4"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "92deb59d-61a0-4793-adf5-3f83e361f86c"
+            },
+            "questionId": {
+                "S": "0294c9fa-5d52-49ab-b93e-97131f8cc887"
+            },
+            "userID": {
+                "S": "covoh52463@mitigado.com"
+            },
+            "answerId": {
+                "S": "f6720dff-8257-449f-9032-8528ede62366"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "646b3c1f-3b54-4cab-8963-74be8cf3843e"
+            },
+            "questionId": {
+                "S": "6275855e-7659-4764-98e7-a8ffecff0b6d"
+            },
+            "userID": {
+                "S": "bedose@ema-sofia.eu"
+            },
+            "answerId": {
+                "S": "30786ed2-2733-49f7-ba7b-9e84584813d9"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "ba2d3226-c184-4a59-839e-9ec0ee17beda"
+            },
+            "questionId": {
+                "S": "603c0c61-845e-498f-9efa-ac61abc12c32"
+            },
+            "userID": {
+                "S": "bedose@ema-sofia.eu"
+            },
+            "answerId": {
+                "S": "4955db22-a580-44dc-bc9a-6fe92b962e3f"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "646b3c1f-3b54-4cab-8963-74be8cf3843e"
+            },
+            "questionId": {
+                "S": "f957d7ac-3093-46b4-bb96-0f5852c3907d"
+            },
+            "userID": {
+                "S": "bedose@ema-sofia.eu"
+            },
+            "answerId": {
+                "S": "8de69827-ca2f-4216-b072-b8d1cc40de00"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "ba2d3226-c184-4a59-839e-9ec0ee17beda"
+            },
+            "questionId": {
+                "S": "603c0c61-845e-498f-9efa-ac61abc12c32"
+            },
+            "userID": {
+                "S": "bedose@ema-sofia.eu"
+            },
+            "answerId": {
+                "S": "9b7cf368-7fac-4278-a991-e6999ee673cd"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "ba2d3226-c184-4a59-839e-9ec0ee17beda"
+            },
+            "questionId": {
+                "S": "603c0c61-845e-498f-9efa-ac61abc12c32"
+            },
+            "userID": {
+                "S": "bedose@ema-sofia.eu"
+            },
+            "answerId": {
+                "S": "a9692d2a-9c10-4bce-a9c7-34b845c5361d"
+            }
+        },
+        {
+            "surveyId": {
+                "S": "ba2d3226-c184-4a59-839e-9ec0ee17beda"
+            },
+            "questionId": {
+                "S": "603c0c61-845e-498f-9efa-ac61abc12c32"
+            },
+            "userID": {
+                "S": "bedose@ema-sofia.eu"
+            },
+            "answerId": {
+                "S": "db3283e5-51fd-4310-8a74-c102cc509afe"
+            }
+        }
+    ],
+    "Count": 90,
+    "ScannedCount": 90,
+    "ConsumedCapacity": null
+}

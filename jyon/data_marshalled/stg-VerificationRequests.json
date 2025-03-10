@@ -1,0 +1,47 @@
+{
+    "Items": [
+        {
+            "email": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "transactionId": {
+                "S": "trxn1QU8OWAIzt2VGEmI31E4iW"
+            }
+        },
+        {
+            "email": {
+                "S": "qaxajito@finews.biz"
+            },
+            "transactionId": {
+                "S": "trxn5vL9kXvIsJSFtJFlFF3Ge2"
+            }
+        },
+        {
+            "email": {
+                "S": "hevame5665@mitigado.com"
+            },
+            "transactionId": {
+                "S": "trxn4Wr7VdvSB8fHfgGdQQ74lt"
+            }
+        },
+        {
+            "email": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "transactionId": {
+                "S": "trxn2fajvvwSsKIh3y7HTuyDWa"
+            }
+        },
+        {
+            "email": {
+                "S": "kavugany@lyricspad.net"
+            },
+            "transactionId": {
+                "S": "trxn76aOYhl6y5sxx30YLjL24L"
+            }
+        }
+    ],
+    "Count": 5,
+    "ScannedCount": 5,
+    "ConsumedCapacity": null
+}

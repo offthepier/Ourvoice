@@ -1,0 +1,67 @@
+service: your-voice-posts-api
+frameworkVersion: "3"
+useDotenv: true
+
+plugins:
+  - serverless-auto-swagger
+  - serverless-offline
+  - serverless-esbuild
+  - serverless-dotenv-plugin
+
+provider:
+  name: aws
+  runtime: nodejs16.x
+  lambdaHashingVersion: 20201221
+  stage: ${opt:stage, 'dev'}
+  region: ap-southeast-2
+
+custom:
+  esbuild:
+    bundle: true
+    minify: false
+    sourcemap: true
+    exclude:
+      - "aws-sdk"
+    target: "node16"
+    define:
+      require.resolve: "undefined"
+    platform: "node"
+    concurrency: 10
+
+  userPoolArn: ${env:AWS_USER_POOL_ARN}
+
+  serverless-offline:
+    httpPort: 4000
+
+  userPoolArn: ${env:AWS_USER_POOL_ARN}
+
+  autoswagger:
+    title: "Post API Documentation"
+    apiType: "http"
+    generateSwaggerOnDeploy: true
+    typefiles: ["./src/types/post.d.ts"]
+    schemes: ["https"]
+    host: "vax5qqh64a.execute-api.ap-southeast-2.amazonaws.com"
+    basePath: "/${opt:stage}"
+    apiKeyHeaders: ["Authorization"]
+
+  iam:
+    role:
+      statements:
+        - Effect: Allow
+          Action:
+            - "dynamodb:GetItem"
+            - "dynamodb:Scan"
+            - "dynamodb:PutItem"
+            - "ses:SendEmail"
+            - "ses:SendRawEmail"
+          Resource:
+            - { "Fn::GetAtt": ["aus_geocodes", "Arn"] }
+            - { "Fn::GetAtt": ["User", "Arn"] }
+            - { "Fn::GetAtt": ["InvitedMP", "Arn"] }
+            - { "Fn::GetAtt": ["Posts", "Arn"] }
+            - { "Fn::GetAtt": ["Followers", "Arn"] }
+
+functions: ${file(src/serverless/functions.yml)}
+
+resources: ${file(src/serverless/dynamodb.yml)}

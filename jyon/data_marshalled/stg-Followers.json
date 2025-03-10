@@ -1,0 +1,1999 @@
+{
+    "Items": [
+        {
+            "challenge": {
+                "S": "Voice to Parliament"
+            },
+            "challengeId": {
+                "S": "f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "lhua5130@uni.sydney.edu.au"
+            },
+            "createdAt": {
+                "S": "2023-08-17T09:30:22.147Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Healthcare"
+            },
+            "challengeId": {
+                "S": "fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "lhua5130@uni.sydney.edu.au"
+            },
+            "createdAt": {
+                "S": "2023-08-17T09:30:23.043Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-08-17T09:30:34.739Z"
+            },
+            "sk": {
+                "S": "POST#MP#6fe15311-a42f-40f5-8e87-95682c43ca80"
+            },
+            "postId": {
+                "S": "MP#6fe15311-a42f-40f5-8e87-95682c43ca80"
+            },
+            "userID": {
+                "S": "lhua5130@uni.sydney.edu.au"
+            }
+        },
+        {
+            "challenge": {
+                "S": "US Alliance / Submairnes / Relations with China"
+            },
+            "challengeId": {
+                "S": "4172beda-01df-4236-9098-c81c942d311c"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "createdAt": {
+                "S": "2023-06-06T09:03:37.704Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#4172beda-01df-4236-9098-c81c942d311c"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Healthcare"
+            },
+            "challengeId": {
+                "S": "fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            },
+            "community": {
+                "S": "STATE"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "createdAt": {
+                "S": "2023-05-26T08:22:59.383Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-05-26T08:28:42.552Z"
+            },
+            "sk": {
+                "S": "POST#MP#b25ae92b-381f-44b5-9a49-f656cbfd38e0"
+            },
+            "postId": {
+                "S": "MP#b25ae92b-381f-44b5-9a49-f656cbfd38e0"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-05-23T15:15:31.063Z"
+            },
+            "sk": {
+                "S": "POST#MP#e4b42376-eb11-4653-af39-454d0d0adecb"
+            },
+            "postId": {
+                "S": "MP#e4b42376-eb11-4653-af39-454d0d0adecb"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            }
+        },
+        {
+            "followerID": {
+                "S": "hulowovy@lyft.live"
+            },
+            "userLastName": {
+                "S": "wilson"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "userFirstName": {
+                "S": "Ginny"
+            },
+            "createdAt": {
+                "S": "2023-05-23T15:24:49.057Z"
+            },
+            "sk": {
+                "S": "USER#hulowovy@lyft.live"
+            }
+        },
+        {
+            "followerID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "userLastName": {
+                "S": "wilson"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "userFirstName": {
+                "S": "Ginny"
+            },
+            "createdAt": {
+                "S": "2023-05-25T06:38:49.639Z"
+            },
+            "sk": {
+                "S": "USER#kyfelufe@brand-app.biz"
+            }
+        },
+        {
+            "followerID": {
+                "S": "nimchathuni@gmail.com"
+            },
+            "userLastName": {
+                "S": "wilson"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "userFirstName": {
+                "S": "Ginny"
+            },
+            "createdAt": {
+                "S": "2023-05-25T02:15:22.857Z"
+            },
+            "sk": {
+                "S": "USER#nimchathuni@gmail.com"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-05-23T13:47:18.403Z"
+            },
+            "sk": {
+                "S": "POST#0ce49691-eee6-40da-b8f5-53734529318a"
+            },
+            "postId": {
+                "S": "0ce49691-eee6-40da-b8f5-53734529318a"
+            },
+            "userID": {
+                "S": "teraba@lyricspad.net"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-03-29T01:47:28.130Z"
+            },
+            "sk": {
+                "S": "POST#MP#7179b3c7-ff3c-4b44-b24d-b7071e5da021"
+            },
+            "postId": {
+                "S": "MP#7179b3c7-ff3c-4b44-b24d-b7071e5da021"
+            },
+            "userID": {
+                "S": "teraba@lyricspad.net"
+            }
+        },
+        {
+            "followerID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "userLastName": {
+                "S": "Featherstonehaugh"
+            },
+            "userID": {
+                "S": "teraba@lyricspad.net"
+            },
+            "userFirstName": {
+                "S": "henry"
+            },
+            "createdAt": {
+                "S": "2023-04-19T04:58:32.167Z"
+            },
+            "sk": {
+                "S": "USER#kyfelufe@brand-app.biz"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-05-23T08:57:45.205Z"
+            },
+            "sk": {
+                "S": "POST#68bf7291-d907-47db-90bd-040ea327e3a6"
+            },
+            "postId": {
+                "S": "68bf7291-d907-47db-90bd-040ea327e3a6"
+            },
+            "userID": {
+                "S": "bikujico@clout.wiki"
+            }
+        },
+        {
+            "followerID": {
+                "S": "nimchathuni@gmail.com"
+            },
+            "userLastName": {
+                "S": "derry"
+            },
+            "userID": {
+                "S": "bikujico@clout.wiki"
+            },
+            "userFirstName": {
+                "S": "james"
+            },
+            "createdAt": {
+                "S": "2023-05-23T08:57:42.344Z"
+            },
+            "sk": {
+                "S": "USER#nimchathuni@gmail.com"
+            }
+        },
+        {
+            "followerID": {
+                "S": "krishnamohanramachandran789@gmail.com"
+            },
+            "userLastName": {
+                "S": "Ramachandran"
+            },
+            "userID": {
+                "S": "krishnaswivel@gmail.com"
+            },
+            "userFirstName": {
+                "S": "Krishnamohan"
+            },
+            "createdAt": {
+                "S": "2023-03-08T05:25:21.092Z"
+            },
+            "sk": {
+                "S": "USER#krishnamohanramachandran789@gmail.com"
+            }
+        },
+        {
+            "followerID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "userLastName": {
+                "S": "Ramachandran"
+            },
+            "userID": {
+                "S": "krishnaswivel@gmail.com"
+            },
+            "userFirstName": {
+                "S": "Krishnamohan"
+            },
+            "createdAt": {
+                "S": "2023-02-25T16:33:05.202Z"
+            },
+            "sk": {
+                "S": "USER#kyfelufe@brand-app.biz"
+            }
+        },
+        {
+            "followerID": {
+                "S": "ripugegy@decabg.eu"
+            },
+            "userLastName": {
+                "S": "Ramachandran"
+            },
+            "userID": {
+                "S": "krishnaswivel@gmail.com"
+            },
+            "userFirstName": {
+                "S": "Krishnamohan"
+            },
+            "createdAt": {
+                "S": "2023-03-08T05:25:13.761Z"
+            },
+            "sk": {
+                "S": "USER#ripugegy@decabg.eu"
+            }
+        },
+        {
+            "followerID": {
+                "S": "slimmortals.004@gmail.com"
+            },
+            "userLastName": {
+                "S": "Ramachandran"
+            },
+            "userID": {
+                "S": "krishnaswivel@gmail.com"
+            },
+            "userFirstName": {
+                "S": "Krishnamohan"
+            },
+            "createdAt": {
+                "S": "2023-03-08T05:08:24.858Z"
+            },
+            "sk": {
+                "S": "USER#slimmortals.004@gmail.com"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Healthcare"
+            },
+            "challengeId": {
+                "S": "fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            },
+            "community": {
+                "S": "STATE"
+            },
+            "userID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "createdAt": {
+                "S": "2023-05-25T08:16:48.894Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-06-06T05:00:02.970Z"
+            },
+            "sk": {
+                "S": "POST#4f97cec2-a215-46bc-933a-c3aeb2f3792e"
+            },
+            "postId": {
+                "S": "4f97cec2-a215-46bc-933a-c3aeb2f3792e"
+            },
+            "userID": {
+                "S": "kyfelufe@brand-app.biz"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-05-26T01:55:40.053Z"
+            },
+            "sk": {
+                "S": "POST#MP#e523a736-6da7-47f8-96aa-27fb4b3c2c14"
+            },
+            "postId": {
+                "S": "MP#e523a736-6da7-47f8-96aa-27fb4b3c2c14"
+            },
+            "userID": {
+                "S": "kyfelufe@brand-app.biz"
+            }
+        },
+        {
+            "followerID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "userLastName": {
+                "S": "peter"
+            },
+            "userID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "cherry"
+            },
+            "createdAt": {
+                "S": "2023-05-25T09:09:35.600Z"
+            },
+            "sk": {
+                "S": "USER#chathuni@swivelgroup.com.au"
+            }
+        },
+        {
+            "followerID": {
+                "S": "kavugany@lyricspad.net"
+            },
+            "userLastName": {
+                "S": "peter"
+            },
+            "userID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "cherry"
+            },
+            "createdAt": {
+                "S": "2023-02-24T15:25:32.260Z"
+            },
+            "sk": {
+                "S": "USER#kavugany@lyricspad.net"
+            }
+        },
+        {
+            "followerID": {
+                "S": "slimmortals.004@gmail.com"
+            },
+            "userLastName": {
+                "S": "peter"
+            },
+            "userID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "cherry"
+            },
+            "createdAt": {
+                "S": "2023-05-22T09:27:31.047Z"
+            },
+            "sk": {
+                "S": "USER#slimmortals.004@gmail.com"
+            }
+        },
+        {
+            "followerID": {
+                "S": "suxixomy@brand-app.biz"
+            },
+            "userLastName": {
+                "S": "peter"
+            },
+            "userID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "cherry"
+            },
+            "createdAt": {
+                "S": "2023-02-24T13:31:41.245Z"
+            },
+            "sk": {
+                "S": "USER#suxixomy@brand-app.biz"
+            }
+        },
+        {
+            "followerID": {
+                "S": "titijexy@decabg.eu"
+            },
+            "userLastName": {
+                "S": "peter"
+            },
+            "userID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "cherry"
+            },
+            "createdAt": {
+                "S": "2023-03-14T07:34:59.322Z"
+            },
+            "sk": {
+                "S": "USER#titijexy@decabg.eu"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-03-21T00:43:02.365Z"
+            },
+            "sk": {
+                "S": "POST#MP#0394ae31-7692-491e-a7dc-b7c0aaf86337"
+            },
+            "postId": {
+                "S": "MP#0394ae31-7692-491e-a7dc-b7c0aaf86337"
+            },
+            "userID": {
+                "S": "olka.koko@gmail.com"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-03-21T00:43:07.600Z"
+            },
+            "sk": {
+                "S": "POST#MP#59ba67a9-84a8-4257-8b55-41420a615d3f"
+            },
+            "postId": {
+                "S": "MP#59ba67a9-84a8-4257-8b55-41420a615d3f"
+            },
+            "userID": {
+                "S": "olka.koko@gmail.com"
+            }
+        },
+        {
+            "followerID": {
+                "S": "slimmortals.004@gmail.com"
+            },
+            "userLastName": {
+                "S": "Fernando"
+            },
+            "userID": {
+                "S": "gipah82205@asoflex.com"
+            },
+            "userFirstName": {
+                "S": "Ushan"
+            },
+            "createdAt": {
+                "S": "2023-05-26T11:48:59.694Z"
+            },
+            "sk": {
+                "S": "USER#slimmortals.004@gmail.com"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Voice to Parliament"
+            },
+            "challengeId": {
+                "S": "f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "see@elthamhs.vic.edu.au"
+            },
+            "createdAt": {
+                "S": "2023-06-26T11:10:16.230Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-03-07T12:31:53.683Z"
+            },
+            "sk": {
+                "S": "POST#MP#0292a5f0-d8ef-413c-98a6-646e1151aaa8"
+            },
+            "postId": {
+                "S": "MP#0292a5f0-d8ef-413c-98a6-646e1151aaa8"
+            },
+            "userID": {
+                "S": "zydezymu@lyft.live"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-03-07T07:11:51.859Z"
+            },
+            "sk": {
+                "S": "POST#dc55aa8e-2c34-40ec-bdee-25da08e98a53"
+            },
+            "postId": {
+                "S": "dc55aa8e-2c34-40ec-bdee-25da08e98a53"
+            },
+            "userID": {
+                "S": "zydezymu@lyft.live"
+            }
+        },
+        {
+            "followerID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "userLastName": {
+                "S": "marry"
+            },
+            "userID": {
+                "S": "zydezymu@lyft.live"
+            },
+            "userFirstName": {
+                "S": "Janne"
+            },
+            "createdAt": {
+                "S": "2023-03-07T07:08:45.301Z"
+            },
+            "sk": {
+                "S": "USER#chathuni@swivelgroup.com.au"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Animal welfare"
+            },
+            "challengeId": {
+                "S": "7647441c-5fc3-4357-aab0-fed0ce7f41a0"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "csmi4138@uni.sydney.edu.au"
+            },
+            "createdAt": {
+                "S": "2023-08-30T06:37:59.572Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#7647441c-5fc3-4357-aab0-fed0ce7f41a0"
+            }
+        },
+        {
+            "followerID": {
+                "S": "eddie.kowalski@gmail.com"
+            },
+            "userLastName": {
+                "S": "Smith"
+            },
+            "userID": {
+                "S": "csmi4138@uni.sydney.edu.au"
+            },
+            "userFirstName": {
+                "S": "Connor"
+            },
+            "createdAt": {
+                "S": "2023-08-15T23:43:24.536Z"
+            },
+            "sk": {
+                "S": "USER#eddie.kowalski@gmail.com"
+            }
+        },
+        {
+            "followerID": {
+                "S": "titijexy@decabg.eu"
+            },
+            "userLastName": {
+                "S": "Monash"
+            },
+            "userID": {
+                "S": "qygiqa@ema-sofia.eu"
+            },
+            "userFirstName": {
+                "S": "Haily"
+            },
+            "createdAt": {
+                "S": "2023-05-22T22:43:24.597Z"
+            },
+            "sk": {
+                "S": "USER#titijexy@decabg.eu"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Voice to Parliament"
+            },
+            "challengeId": {
+                "S": "f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "linat85590@duiter.com"
+            },
+            "createdAt": {
+                "S": "2023-03-30T08:03:12.060Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            }
+        },
+        {
+            "followerID": {
+                "S": "fuxyrawi@mailo.icu"
+            },
+            "userLastName": {
+                "S": "Anderson"
+            },
+            "userID": {
+                "S": "linat85590@duiter.com"
+            },
+            "userFirstName": {
+                "S": "Gerald"
+            },
+            "createdAt": {
+                "S": "2023-03-30T08:03:35.584Z"
+            },
+            "sk": {
+                "S": "USER#fuxyrawi@mailo.icu"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Healthcare"
+            },
+            "challengeId": {
+                "S": "fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            },
+            "community": {
+                "S": "STATE"
+            },
+            "userID": {
+                "S": "focedugy@lyricspad.net"
+            },
+            "createdAt": {
+                "S": "2023-04-19T05:08:15.512Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            }
+        },
+        {
+            "followerID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "userLastName": {
+                "S": "cyrus"
+            },
+            "userID": {
+                "S": "focedugy@lyricspad.net"
+            },
+            "userFirstName": {
+                "S": "merly"
+            },
+            "createdAt": {
+                "S": "2023-03-09T10:42:33.523Z"
+            },
+            "sk": {
+                "S": "USER#chathuni@swivelgroup.com.au"
+            }
+        },
+        {
+            "followerID": {
+                "S": "teraba@lyricspad.net"
+            },
+            "userLastName": {
+                "S": "cyrus"
+            },
+            "userID": {
+                "S": "focedugy@lyricspad.net"
+            },
+            "userFirstName": {
+                "S": "merly"
+            },
+            "createdAt": {
+                "S": "2023-04-19T05:03:01.138Z"
+            },
+            "sk": {
+                "S": "USER#teraba@lyricspad.net"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-05-22T15:47:09.824Z"
+            },
+            "sk": {
+                "S": "POST#9b146818-2226-4103-ae2d-3fe5a8594ccb"
+            },
+            "postId": {
+                "S": "9b146818-2226-4103-ae2d-3fe5a8594ccb"
+            },
+            "userID": {
+                "S": "suxixomy@brand-app.biz"
+            }
+        },
+        {
+            "followerID": {
+                "S": "bedose@ema-sofia.eu"
+            },
+            "userLastName": {
+                "S": "jenner"
+            },
+            "userID": {
+                "S": "suxixomy@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "kendel"
+            },
+            "createdAt": {
+                "S": "2023-02-25T03:01:52.638Z"
+            },
+            "sk": {
+                "S": "USER#bedose@ema-sofia.eu"
+            }
+        },
+        {
+            "followerID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "userLastName": {
+                "S": "jenner"
+            },
+            "userID": {
+                "S": "suxixomy@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "kendel"
+            },
+            "createdAt": {
+                "S": "2023-03-09T13:14:55.090Z"
+            },
+            "sk": {
+                "S": "USER#chathuni@swivelgroup.com.au"
+            }
+        },
+        {
+            "followerID": {
+                "S": "xigixu@finews.biz"
+            },
+            "userLastName": {
+                "S": "jenner"
+            },
+            "userID": {
+                "S": "suxixomy@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "kendel"
+            },
+            "createdAt": {
+                "S": "2023-02-25T03:08:52.373Z"
+            },
+            "sk": {
+                "S": "USER#xigixu@finews.biz"
+            }
+        },
+        {
+            "followerID": {
+                "S": "zydezymu@lyft.live"
+            },
+            "userLastName": {
+                "S": "jenner"
+            },
+            "userID": {
+                "S": "suxixomy@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "kendel"
+            },
+            "createdAt": {
+                "S": "2023-03-08T12:02:44.619Z"
+            },
+            "sk": {
+                "S": "USER#zydezymu@lyft.live"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-05-24T14:28:02.072Z"
+            },
+            "sk": {
+                "S": "POST#0ce49691-eee6-40da-b8f5-53734529318a"
+            },
+            "postId": {
+                "S": "0ce49691-eee6-40da-b8f5-53734529318a"
+            },
+            "userID": {
+                "S": "titijexy@decabg.eu"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-03-14T07:32:29.683Z"
+            },
+            "sk": {
+                "S": "POST#MP#7179b3c7-ff3c-4b44-b24d-b7071e5da021"
+            },
+            "postId": {
+                "S": "MP#7179b3c7-ff3c-4b44-b24d-b7071e5da021"
+            },
+            "userID": {
+                "S": "titijexy@decabg.eu"
+            }
+        },
+        {
+            "followerID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "userLastName": {
+                "S": "fedrick"
+            },
+            "userID": {
+                "S": "titijexy@decabg.eu"
+            },
+            "userFirstName": {
+                "S": "brain"
+            },
+            "createdAt": {
+                "S": "2023-05-24T14:27:56.206Z"
+            },
+            "sk": {
+                "S": "USER#chathuni@swivelgroup.com.au"
+            }
+        },
+        {
+            "followerID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "userLastName": {
+                "S": "fedrick"
+            },
+            "userID": {
+                "S": "titijexy@decabg.eu"
+            },
+            "userFirstName": {
+                "S": "brain"
+            },
+            "createdAt": {
+                "S": "2023-03-14T07:24:41.563Z"
+            },
+            "sk": {
+                "S": "USER#kyfelufe@brand-app.biz"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-03-09T06:51:43.866Z"
+            },
+            "sk": {
+                "S": "POST#MP#1f3e7c16-8794-4b8f-b779-2d04202809b6"
+            },
+            "postId": {
+                "S": "MP#1f3e7c16-8794-4b8f-b779-2d04202809b6"
+            },
+            "userID": {
+                "S": "krishnamohanramachandran789@gmail.com"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-03-09T06:51:36.380Z"
+            },
+            "sk": {
+                "S": "POST#MP#2b5bb750-a2cf-4f78-960d-eab3e8edc335"
+            },
+            "postId": {
+                "S": "MP#2b5bb750-a2cf-4f78-960d-eab3e8edc335"
+            },
+            "userID": {
+                "S": "krishnamohanramachandran789@gmail.com"
+            }
+        },
+        {
+            "followerID": {
+                "S": "krishnamohanramachandran789@gmail.com"
+            },
+            "userLastName": {
+                "S": "Ramachandran"
+            },
+            "userID": {
+                "S": "krishnamohanramachandran789@gmail.com"
+            },
+            "userFirstName": {
+                "S": "Krishnamohan"
+            },
+            "createdAt": {
+                "S": "2023-03-08T15:16:45.802Z"
+            },
+            "sk": {
+                "S": "USER#krishnamohanramachandran789@gmail.com"
+            }
+        },
+        {
+            "followerID": {
+                "S": "varuna@swivelgroup.com.au"
+            },
+            "userLastName": {
+                "S": "Ramachandran"
+            },
+            "userID": {
+                "S": "krishnamohanramachandran789@gmail.com"
+            },
+            "userFirstName": {
+                "S": "Krishnamohan"
+            },
+            "createdAt": {
+                "S": "2023-03-08T03:49:16.996Z"
+            },
+            "sk": {
+                "S": "USER#varuna@swivelgroup.com.au"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-02-24T07:54:41.003Z"
+            },
+            "sk": {
+                "S": "POST#687cde97-c15e-407a-9822-19201b1625c4"
+            },
+            "postId": {
+                "S": "687cde97-c15e-407a-9822-19201b1625c4"
+            },
+            "userID": {
+                "S": "varuna@swivelgroup.com.au"
+            }
+        },
+        {
+            "followerID": {
+                "S": "dean@univers.com.au"
+            },
+            "userLastName": {
+                "S": "Galabada"
+            },
+            "userID": {
+                "S": "varuna@swivelgroup.com.au"
+            },
+            "userFirstName": {
+                "S": "Varuna"
+            },
+            "createdAt": {
+                "S": "2023-06-13T09:05:28.331Z"
+            },
+            "sk": {
+                "S": "USER#dean@univers.com.au"
+            }
+        },
+        {
+            "followerID": {
+                "S": "lemysuqo@decabg.eu"
+            },
+            "userLastName": {
+                "S": "Galabada"
+            },
+            "userID": {
+                "S": "varuna@swivelgroup.com.au"
+            },
+            "userFirstName": {
+                "S": "Varuna"
+            },
+            "createdAt": {
+                "S": "2023-02-21T09:11:22.346Z"
+            },
+            "sk": {
+                "S": "USER#lemysuqo@decabg.eu"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-05-23T18:29:10.430Z"
+            },
+            "sk": {
+                "S": "POST#MP#cb28398d-4735-4c79-8f89-5f1de060ce4b"
+            },
+            "postId": {
+                "S": "MP#cb28398d-4735-4c79-8f89-5f1de060ce4b"
+            },
+            "userID": {
+                "S": "kejadiqu@brand-app.biz"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Education"
+            },
+            "challengeId": {
+                "S": "049d90f0-d914-433b-a362-03d6835a89b0"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "j.camilleri@latrobe.edu.au"
+            },
+            "createdAt": {
+                "S": "2023-07-04T09:57:23.436Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#049d90f0-d914-433b-a362-03d6835a89b0"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Climate change/Environment"
+            },
+            "challengeId": {
+                "S": "208c7344-4021-4d5b-b0ec-7bdba74f1551"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "j.camilleri@latrobe.edu.au"
+            },
+            "createdAt": {
+                "S": "2023-07-04T09:57:30.588Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#208c7344-4021-4d5b-b0ec-7bdba74f1551"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Immigration/Multicultural affairs"
+            },
+            "challengeId": {
+                "S": "2ed0de46-e0bc-4506-83dd-a7aeadbc054f"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "j.camilleri@latrobe.edu.au"
+            },
+            "createdAt": {
+                "S": "2023-07-04T09:57:22.462Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#2ed0de46-e0bc-4506-83dd-a7aeadbc054f"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Housing"
+            },
+            "challengeId": {
+                "S": "4172beda-01df-4236-9098-c81c942d311c"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "j.camilleri@latrobe.edu.au"
+            },
+            "createdAt": {
+                "S": "2023-07-04T09:55:31.251Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#4172beda-01df-4236-9098-c81c942d311c"
+            }
+        },
+        {
+            "challenge": {
+                "S": "US Alliance/Relations with China"
+            },
+            "challengeId": {
+                "S": "a3cf7030-3882-497f-8569-b4a8b87cff13"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "j.camilleri@latrobe.edu.au"
+            },
+            "createdAt": {
+                "S": "2023-07-04T09:55:32.522Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#a3cf7030-3882-497f-8569-b4a8b87cff13"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Voice to Parliament"
+            },
+            "challengeId": {
+                "S": "f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "j.camilleri@latrobe.edu.au"
+            },
+            "createdAt": {
+                "S": "2023-08-26T08:07:21.731Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Healthcare"
+            },
+            "challengeId": {
+                "S": "fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "j.camilleri@latrobe.edu.au"
+            },
+            "createdAt": {
+                "S": "2023-07-04T09:55:30.141Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Voice to Parliament"
+            },
+            "challengeId": {
+                "S": "f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "harryabdown@gmail.com"
+            },
+            "createdAt": {
+                "S": "2023-03-29T08:43:59.533Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-03-29T08:44:34.916Z"
+            },
+            "sk": {
+                "S": "POST#MP#cb28398d-4735-4c79-8f89-5f1de060ce4b"
+            },
+            "postId": {
+                "S": "MP#cb28398d-4735-4c79-8f89-5f1de060ce4b"
+            },
+            "userID": {
+                "S": "harryabdown@gmail.com"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Voice to Parliament"
+            },
+            "challengeId": {
+                "S": "f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "covalschicarmen@gmail.com"
+            },
+            "createdAt": {
+                "S": "2023-03-12T00:51:42.640Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Healthcare"
+            },
+            "challengeId": {
+                "S": "fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            },
+            "community": {
+                "S": "STATE"
+            },
+            "userID": {
+                "S": "covalschicarmen@gmail.com"
+            },
+            "createdAt": {
+                "S": "2023-03-12T00:51:39.450Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Voice to Parliament"
+            },
+            "challengeId": {
+                "S": "f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "eddie@itsourvoice.com"
+            },
+            "createdAt": {
+                "S": "2023-05-11T07:11:22.675Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Healthcare"
+            },
+            "challengeId": {
+                "S": "fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            },
+            "community": {
+                "S": "STATE"
+            },
+            "userID": {
+                "S": "eddie@itsourvoice.com"
+            },
+            "createdAt": {
+                "S": "2023-03-17T03:11:32.865Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Voice to Parliament"
+            },
+            "challengeId": {
+                "S": "f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "eddie.kowalski@gmail.com"
+            },
+            "createdAt": {
+                "S": "2023-04-15T11:50:45.458Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Healthcare"
+            },
+            "challengeId": {
+                "S": "fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            },
+            "community": {
+                "S": "STATE"
+            },
+            "userID": {
+                "S": "eddie.kowalski@gmail.com"
+            },
+            "createdAt": {
+                "S": "2023-03-03T10:06:29.670Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            }
+        },
+        {
+            "followerID": {
+                "S": "vaficydu@brand-app.biz"
+            },
+            "userLastName": {
+                "S": "jane"
+            },
+            "userID": {
+                "S": "lysebilu@finews.biz"
+            },
+            "userFirstName": {
+                "S": "randela"
+            },
+            "createdAt": {
+                "S": "2023-03-14T09:48:36.881Z"
+            },
+            "sk": {
+                "S": "USER#vaficydu@brand-app.biz"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Healthcare"
+            },
+            "challengeId": {
+                "S": "fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            },
+            "community": {
+                "S": "STATE"
+            },
+            "userID": {
+                "S": "ashleigh@speckledigital.com"
+            },
+            "createdAt": {
+                "S": "2023-05-26T07:02:34.099Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Voice to Parliament"
+            },
+            "challengeId": {
+                "S": "f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "edward.kowalski@gmail.com"
+            },
+            "createdAt": {
+                "S": "2023-03-04T22:18:49.245Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Healthcare"
+            },
+            "challengeId": {
+                "S": "fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            },
+            "community": {
+                "S": "STATE"
+            },
+            "userID": {
+                "S": "edward.kowalski@gmail.com"
+            },
+            "createdAt": {
+                "S": "2023-03-04T22:18:49.590Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-05-26T02:00:26.221Z"
+            },
+            "sk": {
+                "S": "POST#MP#2aa83ad4-11c3-4269-976f-5455e394ff42"
+            },
+            "postId": {
+                "S": "MP#2aa83ad4-11c3-4269-976f-5455e394ff42"
+            },
+            "userID": {
+                "S": "ripugegy@decabg.eu"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-05-26T01:58:43.189Z"
+            },
+            "sk": {
+                "S": "POST#MP#bb1ba020-eac9-4334-b2bf-7ddf1a2a06ae"
+            },
+            "postId": {
+                "S": "MP#bb1ba020-eac9-4334-b2bf-7ddf1a2a06ae"
+            },
+            "userID": {
+                "S": "ripugegy@decabg.eu"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-05-26T01:57:15.480Z"
+            },
+            "sk": {
+                "S": "POST#MP#cb28398d-4735-4c79-8f89-5f1de060ce4b"
+            },
+            "postId": {
+                "S": "MP#cb28398d-4735-4c79-8f89-5f1de060ce4b"
+            },
+            "userID": {
+                "S": "ripugegy@decabg.eu"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Voice to Parliament"
+            },
+            "challengeId": {
+                "S": "f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "2906977869@qq.com"
+            },
+            "createdAt": {
+                "S": "2023-08-23T04:40:25.769Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            }
+        },
+        {
+            "followerID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "userLastName": {
+                "S": "blu"
+            },
+            "userID": {
+                "S": "xigixu@finews.biz"
+            },
+            "userFirstName": {
+                "S": "jasmine"
+            },
+            "createdAt": {
+                "S": "2023-02-24T14:50:49.983Z"
+            },
+            "sk": {
+                "S": "USER#kyfelufe@brand-app.biz"
+            }
+        },
+        {
+            "followerID": {
+                "S": "suxixomy@brand-app.biz"
+            },
+            "userLastName": {
+                "S": "blu"
+            },
+            "userID": {
+                "S": "xigixu@finews.biz"
+            },
+            "userFirstName": {
+                "S": "jasmine"
+            },
+            "createdAt": {
+                "S": "2023-02-25T02:59:17.626Z"
+            },
+            "sk": {
+                "S": "USER#suxixomy@brand-app.biz"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-02-25T16:02:20.442Z"
+            },
+            "sk": {
+                "S": "POST#MP#1628bb91-646a-4d3c-a0ea-b77ce94fd2bd"
+            },
+            "postId": {
+                "S": "MP#1628bb91-646a-4d3c-a0ea-b77ce94fd2bd"
+            },
+            "userID": {
+                "S": "xovemafa@lyricspad.net"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-04-03T12:12:08.784Z"
+            },
+            "sk": {
+                "S": "POST#MP#cb28398d-4735-4c79-8f89-5f1de060ce4b"
+            },
+            "postId": {
+                "S": "MP#cb28398d-4735-4c79-8f89-5f1de060ce4b"
+            },
+            "userID": {
+                "S": "xovemafa@lyricspad.net"
+            }
+        },
+        {
+            "followerID": {
+                "S": "suxixomy@brand-app.biz"
+            },
+            "userLastName": {
+                "S": "wilson"
+            },
+            "userID": {
+                "S": "xovemafa@lyricspad.net"
+            },
+            "userFirstName": {
+                "S": "ron"
+            },
+            "createdAt": {
+                "S": "2023-02-24T13:47:21.610Z"
+            },
+            "sk": {
+                "S": "USER#suxixomy@brand-app.biz"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Housing"
+            },
+            "challengeId": {
+                "S": "4172beda-01df-4236-9098-c81c942d311c"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "1071890207@qq.com"
+            },
+            "createdAt": {
+                "S": "2023-08-27T11:40:58.613Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#4172beda-01df-4236-9098-c81c942d311c"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Aged care"
+            },
+            "challengeId": {
+                "S": "f02ab36e-e573-4438-ab75-20ee94cf8328"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "1071890207@qq.com"
+            },
+            "createdAt": {
+                "S": "2023-08-27T11:40:58.876Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#f02ab36e-e573-4438-ab75-20ee94cf8328"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Voice to Parliament"
+            },
+            "challengeId": {
+                "S": "f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "1071890207@qq.com"
+            },
+            "createdAt": {
+                "S": "2023-08-27T11:40:58.940Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Healthcare"
+            },
+            "challengeId": {
+                "S": "fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "1071890207@qq.com"
+            },
+            "createdAt": {
+                "S": "2023-08-27T11:40:59.156Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#fda4cb91-b0e0-4c1f-b1a4-034c85270bbe"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-08-27T11:40:04.127Z"
+            },
+            "sk": {
+                "S": "POST#52830879-6880-4be5-aa8b-f82e1c41d65a"
+            },
+            "postId": {
+                "S": "52830879-6880-4be5-aa8b-f82e1c41d65a"
+            },
+            "userID": {
+                "S": "1071890207@qq.com"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-08-27T11:40:03.328Z"
+            },
+            "sk": {
+                "S": "POST#MP#0394ae31-7692-491e-a7dc-b7c0aaf86337"
+            },
+            "postId": {
+                "S": "MP#0394ae31-7692-491e-a7dc-b7c0aaf86337"
+            },
+            "userID": {
+                "S": "1071890207@qq.com"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-08-27T11:40:06.400Z"
+            },
+            "sk": {
+                "S": "POST#MP#3059369c-5cb0-4b2a-832c-48e9cff08e4f"
+            },
+            "postId": {
+                "S": "MP#3059369c-5cb0-4b2a-832c-48e9cff08e4f"
+            },
+            "userID": {
+                "S": "1071890207@qq.com"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-08-27T11:40:06.115Z"
+            },
+            "sk": {
+                "S": "POST#MP#38abcc89-f28d-4d4a-a2d2-d8e765730b00"
+            },
+            "postId": {
+                "S": "MP#38abcc89-f28d-4d4a-a2d2-d8e765730b00"
+            },
+            "userID": {
+                "S": "1071890207@qq.com"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-08-27T11:40:05.010Z"
+            },
+            "sk": {
+                "S": "POST#MP#59ba67a9-84a8-4257-8b55-41420a615d3f"
+            },
+            "postId": {
+                "S": "MP#59ba67a9-84a8-4257-8b55-41420a615d3f"
+            },
+            "userID": {
+                "S": "1071890207@qq.com"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-08-27T11:40:05.297Z"
+            },
+            "sk": {
+                "S": "POST#MP#677a7e93-fd9a-4021-8f23-254c77445490"
+            },
+            "postId": {
+                "S": "MP#677a7e93-fd9a-4021-8f23-254c77445490"
+            },
+            "userID": {
+                "S": "1071890207@qq.com"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-08-27T11:40:04.677Z"
+            },
+            "sk": {
+                "S": "POST#MP#ab1bdefc-2fef-4c49-8c00-7aef23c48ffa"
+            },
+            "postId": {
+                "S": "MP#ab1bdefc-2fef-4c49-8c00-7aef23c48ffa"
+            },
+            "userID": {
+                "S": "1071890207@qq.com"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-08-27T11:40:06.681Z"
+            },
+            "sk": {
+                "S": "POST#MP#bb1ba020-eac9-4334-b2bf-7ddf1a2a06ae"
+            },
+            "postId": {
+                "S": "MP#bb1ba020-eac9-4334-b2bf-7ddf1a2a06ae"
+            },
+            "userID": {
+                "S": "1071890207@qq.com"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-08-27T11:40:07.299Z"
+            },
+            "sk": {
+                "S": "POST#MP#cb28398d-4735-4c79-8f89-5f1de060ce4b"
+            },
+            "postId": {
+                "S": "MP#cb28398d-4735-4c79-8f89-5f1de060ce4b"
+            },
+            "userID": {
+                "S": "1071890207@qq.com"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-08-27T11:40:05.600Z"
+            },
+            "sk": {
+                "S": "POST#MP#ccf3131b-855f-43a6-a21c-98f783913a82"
+            },
+            "postId": {
+                "S": "MP#ccf3131b-855f-43a6-a21c-98f783913a82"
+            },
+            "userID": {
+                "S": "1071890207@qq.com"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-02-27T03:25:28.758Z"
+            },
+            "sk": {
+                "S": "POST#14f2a2d3-20e4-42a5-af38-922d8f4b3194"
+            },
+            "postId": {
+                "S": "14f2a2d3-20e4-42a5-af38-922d8f4b3194"
+            },
+            "userID": {
+                "S": "kavugany@lyricspad.net"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-02-27T03:26:35.425Z"
+            },
+            "sk": {
+                "S": "POST#2e8c7cb7-8348-4024-9492-7f7dbc41155a"
+            },
+            "postId": {
+                "S": "2e8c7cb7-8348-4024-9492-7f7dbc41155a"
+            },
+            "userID": {
+                "S": "kavugany@lyricspad.net"
+            }
+        },
+        {
+            "followerID": {
+                "S": "hulowovy@lyft.live"
+            },
+            "userLastName": {
+                "S": "fedrick"
+            },
+            "userID": {
+                "S": "kavugany@lyricspad.net"
+            },
+            "userFirstName": {
+                "S": "noel"
+            },
+            "createdAt": {
+                "S": "2023-05-23T13:27:16.590Z"
+            },
+            "sk": {
+                "S": "USER#hulowovy@lyft.live"
+            }
+        },
+        {
+            "followerID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "userLastName": {
+                "S": "fedrick"
+            },
+            "userID": {
+                "S": "kavugany@lyricspad.net"
+            },
+            "userFirstName": {
+                "S": "noel"
+            },
+            "createdAt": {
+                "S": "2023-02-24T13:28:19.090Z"
+            },
+            "sk": {
+                "S": "USER#kyfelufe@brand-app.biz"
+            }
+        },
+        {
+            "followerID": {
+                "S": "suxixomy@brand-app.biz"
+            },
+            "userLastName": {
+                "S": "fedrick"
+            },
+            "userID": {
+                "S": "kavugany@lyricspad.net"
+            },
+            "userFirstName": {
+                "S": "noel"
+            },
+            "createdAt": {
+                "S": "2023-02-24T13:39:18.504Z"
+            },
+            "sk": {
+                "S": "USER#suxixomy@brand-app.biz"
+            }
+        },
+        {
+            "challenge": {
+                "S": "Voice to Parliament"
+            },
+            "challengeId": {
+                "S": "f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            },
+            "community": {
+                "S": "FEDERAL"
+            },
+            "userID": {
+                "S": "covoh52463@mitigado.com"
+            },
+            "createdAt": {
+                "S": "2023-04-03T03:25:59.013Z"
+            },
+            "sk": {
+                "S": "CHALLENGE#f8a062f2-9d42-4c3d-825e-e4f429ecfb54"
+            }
+        },
+        {
+            "followerID": {
+                "S": "hevame5665@mitigado.com"
+            },
+            "userLastName": {
+                "S": "Kristy"
+            },
+            "userID": {
+                "S": "covoh52463@mitigado.com"
+            },
+            "userFirstName": {
+                "S": "George"
+            },
+            "createdAt": {
+                "S": "2023-04-03T03:45:45.644Z"
+            },
+            "sk": {
+                "S": "USER#hevame5665@mitigado.com"
+            }
+        },
+        {
+            "createdAt": {
+                "S": "2023-03-09T01:11:23.886Z"
+            },
+            "sk": {
+                "S": "POST#MP#842faf0f-842c-4cc2-9aee-4be0f8f82228"
+            },
+            "postId": {
+                "S": "MP#842faf0f-842c-4cc2-9aee-4be0f8f82228"
+            },
+            "userID": {
+                "S": "rkrishnamohan96@gmail.com"
+            }
+        },
+        {
+            "followerID": {
+                "S": "ripugegy@decabg.eu"
+            },
+            "userLastName": {
+                "S": "Ramachandran"
+            },
+            "userID": {
+                "S": "rkrishnamohan96@gmail.com"
+            },
+            "userFirstName": {
+                "S": "Krishnamohan"
+            },
+            "createdAt": {
+                "S": "2023-03-09T06:19:37.541Z"
+            },
+            "sk": {
+                "S": "USER#ripugegy@decabg.eu"
+            }
+        },
+        {
+            "followerID": {
+                "S": "slimmortals.004@gmail.com"
+            },
+            "userLastName": {
+                "S": "Ramachandran"
+            },
+            "userID": {
+                "S": "rkrishnamohan96@gmail.com"
+            },
+            "userFirstName": {
+                "S": "Krishnamohan"
+            },
+            "createdAt": {
+                "S": "2023-03-08T15:14:11.411Z"
+            },
+            "sk": {
+                "S": "USER#slimmortals.004@gmail.com"
+            }
+        }
+    ],
+    "Count": 111,
+    "ScannedCount": 111,
+    "ConsumedCapacity": null
+}

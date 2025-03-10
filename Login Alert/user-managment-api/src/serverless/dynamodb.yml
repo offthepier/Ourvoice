@@ -1,0 +1,134 @@
+Resources:
+  User:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: ${env:USER_TABLE}
+      ProvisionedThroughput:
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1
+      AttributeDefinitions:
+        - AttributeName: email
+          AttributeType: S
+        - AttributeName: searchVisibility
+          AttributeType: S
+        - AttributeName: searchableName
+          AttributeType: S
+        - AttributeName: score
+          AttributeType: N
+        - AttributeName: federalElectorate
+          AttributeType: S
+        - AttributeName: localElectorate
+          AttributeType: S
+        - AttributeName: stateElectorate
+          AttributeType: S
+        - AttributeName: role
+          AttributeType: S
+      KeySchema:
+        - AttributeName: email
+          KeyType: HASH
+      GlobalSecondaryIndexes:
+        - IndexName: SearchIndex
+          KeySchema:
+            - AttributeName: searchVisibility
+              KeyType: HASH
+            - AttributeName: searchableName
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+        - IndexName: RankIndex
+          KeySchema:
+            - AttributeName: searchVisibility
+              KeyType: HASH
+            - AttributeName: score
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "INCLUDE"
+            NonKeyAttributes:
+              - "email"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+        - IndexName: FederalElectorateIndex
+          KeySchema:
+            - AttributeName: federalElectorate
+              KeyType: HASH
+            - AttributeName: role
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+        - IndexName: LocalElectorateIndex
+          KeySchema:
+            - AttributeName: localElectorate
+              KeyType: HASH
+            - AttributeName: role
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+        - IndexName: StateElectorateIndex
+          KeySchema:
+            - AttributeName: stateElectorate
+              KeyType: HASH
+            - AttributeName: role
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+        - IndexName: RoleIndex
+          KeySchema:
+            - AttributeName: role
+              KeyType: HASH
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+  invitemp:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: ${env:MP_TABLE}
+      ProvisionedThroughput:
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1
+      AttributeDefinitions:
+        - AttributeName: email
+          AttributeType: S
+      KeySchema:
+        - AttributeName: email
+          KeyType: HASH
+  VerificationRequests:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: ${env:VERIFICATION_TABLE}
+      ProvisionedThroughput:
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1
+      AttributeDefinitions:
+        - AttributeName: email
+          AttributeType: S
+      KeySchema:
+        - AttributeName: email
+          KeyType: HASH
+  admin:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: ${env:ADMIN_TABLE}
+      ProvisionedThroughput:
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1
+      AttributeDefinitions:
+        - AttributeName: email
+          AttributeType: S
+      KeySchema:
+        - AttributeName: email
+          KeyType: HASH

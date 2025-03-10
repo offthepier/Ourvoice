@@ -1,0 +1,7 @@
+enum COMMENTS_TYPES {
+  GENERAL = "GENERAL",
+  POSITIVE = "POSITIVE",
+  NEGATIVE = "NEGATIVE",
+}
+
+export default COMMENTS_TYPES;

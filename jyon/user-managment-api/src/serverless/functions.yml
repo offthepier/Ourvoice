@@ -1,0 +1,136 @@
+getUserProfile:
+  handler: src/functions/getUserProfile.handler
+  events:
+    - http:
+        path: /users/profile
+        method: get
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+getPublicUserProfile:
+  handler: src/functions/getUserPublicProfile.handler
+  events:
+    - http:
+        path: /users/publicProfile
+        method: get
+        queryStringParameters:
+          { userId: { required: true, type: "string", description: "userId" } }
+        request:
+          parameters:
+            querystrings:
+              userId: true
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+updateUserProfile:
+  handler: src/functions/updateUserProfile.handler
+  events:
+    - http:
+        path: /users/profile
+        method: put
+        bodyType: IUpdateProfile
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+updateEmailSubscription:
+  handler: src/functions/emailSubscription.handler
+  events:
+    - http:
+        path: /users/email/subscription
+        method: put
+        bodyType: IEmailSuscription
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+updateUserPic:
+  handler: src/functions/imageUploadController.handler
+  events:
+    - http:
+        path: /users/profilePicture
+        method: put
+        bodyType: IImage
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+getUserEmailSubscription:
+  handler: src/functions/getEmailSubscription.handler
+  events:
+    - http:
+        path: /users/email/subscription
+        method: get
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+getUserProfilePic:
+  handler: src/functions/getImageController.handler
+  events:
+    - http:
+        path: /users/profilePicture
+        method: get
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+postSignUpController:
+  handler: src/functions/postSignupController.validate
+
+preSignUpUserValidate:
+  handler: src/functions/preSignUpUserValidate.validate
+
+postMpController:
+  handler: src/functions/postMpController.handler
+  events:
+    - http:
+        path: /mp
+        method: post
+        bodyType: ICreateMP
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+createAdminController:
+  handler: src/functions/admin/createAdminController.handler
+  events:
+    - http:
+        path: /admin
+        method: post
+        exclude: true
+        cors: true
+
+verifyUser:
+  handler: src/functions/verifyUser.handler
+  events:
+    - http:
+        path: /verify
+        method: post
+        bodyType: IVerifyUser
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+mpBulkUpload:
+  handler: src/functions/mpBulkUpload.handler
+  events:
+    - http:
+        path: /mp/bulk
+        method: post
+        bodyType: IMPBulk
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}

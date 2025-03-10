@@ -1,0 +1,7 @@
+const POST_COMMUNITY = {
+  FEDERAL: "FEDERAL",
+  STATE: "STATE",
+  LOCAL: "LOCAL",
+};
+
+export { POST_COMMUNITY };

@@ -1,0 +1,46 @@
+name: Deploy Lambda
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: Run Deployment
+        default: v1.0.0
+        required: true
+
+jobs:
+  deploy:
+    name: deploy
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [16.x]
+    steps:
+
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: serverless print
+      uses: serverless/github-action@master
+      with:
+        args: -c "serverless plugin install -n serverless-offline && NODE_ENV=prod serverless print --stage prod"
+        entrypoint: /bin/sh
+      env:
+        # SERVERLESS_ACCESS_KEY: ${{ secrets.SERVERLESS_ACCESS_KEY }}
+        # or if using AWS credentials directly
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+
+    - name: serverless deploy
+      uses: serverless/github-action@master
+      with:
+        args: -c "NODE_ENV=prod serverless deploy --stage prod"
+        entrypoint: /bin/sh
+      env:
+        # SERVERLESS_ACCESS_KEY: ${{ secrets.SERVERLESS_ACCESS_KEY }}
+        # or if using AWS credentials directly
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

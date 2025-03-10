@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/nextjs-frontend-ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/posts-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/survey-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/user-managment-api" vcs="Git" />
+  </component>
+</project>

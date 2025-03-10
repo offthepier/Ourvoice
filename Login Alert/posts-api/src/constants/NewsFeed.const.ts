@@ -1,0 +1,3 @@
+const NEWS_FEED_MP_POST_COUNT = 10;
+
+export { NEWS_FEED_MP_POST_COUNT };

@@ -1,0 +1,70 @@
+createSurvey:
+  handler: src/functions/survey/createSurveyFunction.handler
+  events:
+    - http:
+        path: /survey/mp
+        method: post
+        cors: true
+        bodyType: PostISurvey
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+createSurveyByAdmin:
+  handler: src/functions/adminSurvey/createSurveyByAdminFunction.handler
+  events:
+    - http:
+        path: /survey/admin
+        method: post
+        cors: true
+        bodyType: PostISurvey
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+respondQuestion:
+  handler: src/functions/response/responseFunction.handler
+  events:
+    - http:
+        path: /survey/response
+        method: post
+        cors: true
+        bodyType: IResponse
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+getCountforResponse:
+  handler: src/functions/response/getSurveyCountFunction.handler
+  events:
+    - http:
+        path: /survey/publish
+        method: get
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+getCompletedSurvey:
+  handler: src/functions/survey/getCompletedSurveyFunction.handler
+  events:
+    - http:
+        path: /survey/completed
+        method: post
+        cors: true
+        bodyType: ISurveyLimit
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+getPendingSurvey:
+  handler: src/functions/survey/getPendingSurveysFunction.handler
+  events:
+    - http:
+        path: /survey/pending
+        method: post
+        cors: true
+        bodyType: ISurveyLimit
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}

@@ -1,0 +1,147 @@
+Resources:
+  Surveys:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: ${env:SURVEY_TABLE}
+      ProvisionedThroughput:
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1
+      AttributeDefinitions:
+        - AttributeName: userID
+          AttributeType: S
+        - AttributeName: surveyID
+          AttributeType: S
+        - AttributeName: community
+          AttributeType: S
+        - AttributeName: uniqueCommunity
+          AttributeType: S
+        - AttributeName: createdAt
+          AttributeType: S
+        - AttributeName: status
+          AttributeType: S
+      KeySchema:
+        - AttributeName: userID
+          KeyType: HASH
+        - AttributeName: surveyID
+          KeyType: RANGE
+      GlobalSecondaryIndexes:
+        - IndexName: DateSortedIndex
+          KeySchema:
+            - AttributeName: community
+              KeyType: HASH
+            - AttributeName: createdAt
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+        - IndexName: SortedCommunityIndex
+          KeySchema:
+            - AttributeName: uniqueCommunity
+              KeyType: HASH
+            - AttributeName: createdAt
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+        - IndexName: PublishIndex
+          KeySchema:
+            - AttributeName: userID
+              KeyType: HASH
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+        - IndexName: RespondedSurveyIndex
+          KeySchema:
+            - AttributeName: surveyID
+              KeyType: HASH
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+        - IndexName: StatusIndex
+          KeySchema:
+            - AttributeName: status
+              KeyType: HASH
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+  Responses:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: ${env:RESPONSE_TABLE}
+      ProvisionedThroughput:
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1
+      AttributeDefinitions:
+        - AttributeName: userID
+          AttributeType: S
+        - AttributeName: surveyId
+          AttributeType: S
+        - AttributeName: questionId
+          AttributeType: S
+        - AttributeName: answerId
+          AttributeType: S
+      KeySchema:
+        - AttributeName: userID
+          KeyType: HASH
+        - AttributeName: answerId
+          KeyType: RANGE
+      GlobalSecondaryIndexes:
+        - IndexName: CompletedIndex
+          KeySchema:
+            - AttributeName: surveyId
+              KeyType: HASH
+            - AttributeName: userID
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+        - IndexName: CountIndex
+          KeySchema:
+            - AttributeName: questionId
+              KeyType: HASH
+            - AttributeName: answerId
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+        - IndexName: CompletedSurveyIndex
+          KeySchema:
+            - AttributeName: userID
+              KeyType: HASH
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+        - IndexName: CompletedRespondedSurveyIndex
+          KeySchema:
+            - AttributeName: surveyId
+              KeyType: HASH
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+        - IndexName: QuestionIndex
+          KeySchema:
+            - AttributeName: questionId
+              KeyType: HASH
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1

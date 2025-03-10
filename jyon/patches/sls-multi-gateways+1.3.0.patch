@@ -1,0 +1,24 @@
+diff --git a/node_modules/sls-multi-gateways/build/handler.js b/node_modules/sls-multi-gateways/build/handler.js
+index b631967..5549e25 100644
+--- a/node_modules/sls-multi-gateways/build/handler.js
++++ b/node_modules/sls-multi-gateways/build/handler.js
+@@ -19,7 +19,7 @@ exports.readConfigFile = readConfigFile;
+ var runServices = function (services, httpPort, stage, prefixColors) {
+     var commands = [];
+     for (var i = 0; i < services.length; i++) {
+-        var execCommand = "\n            cd  " + process.cwd() + "/" + services[i].srvSource + ";\n            sls offline --stage " + stage + " --httpPort " + (httpPort + i) + " --lambdaPort " + (httpPort + i + 1000) + "\n        ";
++        var execCommand = "\n            cd  " + process.cwd() + "/" + services[i].srvSource + ";\n          npx sls offline start --stage " + stage + " --httpPort " + (httpPort + i) + " --lambdaPort " + (httpPort + i + 1000) + "\n        ";
+         commands.push({
+             command: execCommand,
+             name: services[i].srvName,
+@@ -36,8 +36,8 @@ var runProxy = function (services, httpPort, stage) {
+         var proxyPath = "/" + services[i].srvPath;
+         var stripBasePath = services[i].stripBasePath;
+         app.use(proxyPath, http_proxy_middleware_1.createProxyMiddleware({
+-            pathRewrite: function (path) {
+-                return stripBasePath ? path.replace(proxyPath, '/') : path;
++            pathRewrite: function (path, req) {
++                return stripBasePath ? path.replace(proxyPath, '') : path;
+             },
+             target: "http://localhost:" + (httpPort + i) + "/" + stage + "/",
+             changeOrigin: true,

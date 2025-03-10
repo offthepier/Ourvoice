@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "postinstall": "npx patch-package",
+    "ui": "npm --prefix ./nextjs-frontend-ui run dev",
+    "dev": "sls-multi-gateways"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1448.0",
+    "sls-multi-gateways": "^1.3.0"
+  },
+  "type": "module"
+}

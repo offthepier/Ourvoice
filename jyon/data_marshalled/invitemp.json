@@ -1,0 +1,1299 @@
+{
+    "Items": [
+        {
+            "electorateName": {
+                "S": "Fenner"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "jerry hogwartz"
+            },
+            "id": {
+                "S": "c43343f9-7df7-420f-83d1-6fd768e4106d"
+            },
+            "email": {
+                "S": "koqage@clout.wiki"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Bennelong"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Bennelong Fedmp"
+            },
+            "id": {
+                "S": "f60de8af-e769-4e55-ae1b-b03c2cc45876"
+            },
+            "email": {
+                "S": "jylifasu@lyft.live"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "MELB"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Automationgvejr"
+            },
+            "id": {
+                "S": "fc6260bf-9e33-4051-8b6b-391bcaef4db5"
+            },
+            "email": {
+                "S": "automation+MPgvejr@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "St Arnaud"
+            },
+            "electorateType": {
+                "S": "STATE"
+            },
+            "fullName": {
+                "S": "Gayan Bandara"
+            },
+            "id": {
+                "S": "e86fbc66-0022-4462-b219-117c41e1db9a"
+            },
+            "email": {
+                "S": "sylonyki@clout.wiki"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "MELB"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Automationurvna"
+            },
+            "id": {
+                "S": "4aa79d5b-533f-4844-a89a-a92444eb9844"
+            },
+            "email": {
+                "S": "automation+MPurvna@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Karama"
+            },
+            "electorateType": {
+                "S": "STATE"
+            },
+            "fullName": {
+                "S": "Ben Dilan"
+            },
+            "id": {
+                "S": "7342fca8-704d-4f29-bab5-742adddbb166"
+            },
+            "email": {
+                "S": "bendilan@gmail.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Katherine"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Edward John"
+            },
+            "id": {
+                "S": "e6c55227-4592-48ca-807b-efb374e35fb3"
+            },
+            "email": {
+                "S": "automation+edward@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "MELB"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Automationojcml"
+            },
+            "id": {
+                "S": "6248d366-05ff-4061-8cc0-52876c2a4816"
+            },
+            "email": {
+                "S": "automation+MPojcml@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "MELB"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Automationvqcat"
+            },
+            "id": {
+                "S": "75539146-9175-4fb6-bc5a-e579fa0b8dac"
+            },
+            "email": {
+                "S": "automation+MPvqcat@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Monash"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Ushan Feranando"
+            },
+            "id": {
+                "S": "281f3b29-0103-42d1-be5e-fcca433982a6"
+            },
+            "email": {
+                "S": "slimmortals.001@gmail.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Melbourne City"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "lisa Frederick Gerald Hubert Irvin"
+            },
+            "id": {
+                "S": "0049a986-2725-4684-9687-b41a9e655dea"
+            },
+            "email": {
+                "S": "gymenepe@lyft.live"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Monash"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Krishnamohan Ramachandran"
+            },
+            "id": {
+                "S": "198670bb-a12b-4f23-b371-b57cb0a7d0ba"
+            },
+            "email": {
+                "S": "fefytyko@tutuapp.bid"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Gungahlin"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "james peter"
+            },
+            "id": {
+                "S": "723d0a17-4dd7-4a70-a9ee-8d06aae97b60"
+            },
+            "email": {
+                "S": "qeryje@socam.me"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Hurstville"
+            },
+            "electorateType": {
+                "S": "state"
+            },
+            "fullName": {
+                "S": "Anne jenner"
+            },
+            "id": {
+                "S": "8cbf0ee8-2281-422b-b8ed-b65ec0f21a9d"
+            },
+            "email": {
+                "S": "muwohewu@finews.biz"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "MELB"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Automationqnnkq"
+            },
+            "id": {
+                "S": "dbb93816-e218-47a5-89a9-3eef0a64ccf9"
+            },
+            "email": {
+                "S": "automation+MPqnnkq@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Test federal electorate"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Test Suburb"
+            },
+            "id": {
+                "S": "e595863a-9a24-4592-8aa1-67e92796eff9"
+            },
+            "email": {
+                "S": "daldhhfqfqhf@gmail.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Sydney"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Autodonotdelete sydneyfedmp"
+            },
+            "id": {
+                "S": "824603e3-e08d-41fc-8307-045c7f7d92ed"
+            },
+            "email": {
+                "S": "zizehicu@tutuapp.bid"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Melbourne"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Krishnamohan Ramachandran"
+            },
+            "id": {
+                "S": "8be48efe-af37-4a32-86fe-094b39f9c023"
+            },
+            "email": {
+                "S": "subemevu@finews.biz"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Docklands"
+            },
+            "electorateType": {
+                "S": "STATE"
+            },
+            "fullName": {
+                "S": "TomJerry"
+            },
+            "id": {
+                "S": "8f4db0c1-a230-4024-8219-474a4c74e75a"
+            },
+            "email": {
+                "S": "vucixygy@tutuapp.bid"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "MELB"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Automationldjxf"
+            },
+            "id": {
+                "S": "c7f32d10-57cd-4d12-95f9-6525ee2b28a6"
+            },
+            "email": {
+                "S": "automation+MPldjxf@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Monash"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Chathuni Nimthara"
+            },
+            "id": {
+                "S": "8ed3a376-5a1b-46b9-b097-36c75dff2ae9"
+            },
+            "email": {
+                "S": "jujulena@socam.me"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Hornsby"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Ben Dilan"
+            },
+            "id": {
+                "S": "76f1e98e-f346-40e2-aebf-b11a1af03c90"
+            },
+            "email": {
+                "S": "kuzedoqa@finews.biz"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "North Sydney - Mosman"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Mosman Teddy"
+            },
+            "id": {
+                "S": "10b0c72f-b1f3-43d1-afca-e65a6034e7f3"
+            },
+            "email": {
+                "S": "pidegose@lyft.live"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Kyabram"
+            },
+            "electorateType": {
+                "S": "STATE"
+            },
+            "fullName": {
+                "S": "Chathuni"
+            },
+            "id": {
+                "S": "e3c22250-a88e-46f7-8578-a17b784cb0ea"
+            },
+            "email": {
+                "S": "tymufa@finews.biz"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Murray river - swan hill"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Murray River"
+            },
+            "id": {
+                "S": "e8e177ea-914b-47ef-b009-4c83026f5958"
+            },
+            "email": {
+                "S": "borimali@socam.me"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Monash"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Krishnamohan Ramachandran"
+            },
+            "id": {
+                "S": "86d5a247-4244-45cc-9147-1f2d33cd1477"
+            },
+            "email": {
+                "S": "kezela@afia.pro"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Avoca"
+            },
+            "electorateType": {
+                "S": "STATE"
+            },
+            "fullName": {
+                "S": "testing user"
+            },
+            "id": {
+                "S": "54605bf1-103f-410d-a762-20eea4b79c2e"
+            },
+            "email": {
+                "S": "vuwihyfu@clout.wiki"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Sydney - Haymarket - The Rocks"
+            },
+            "electorateType": {
+                "S": "STATE"
+            },
+            "fullName": {
+                "S": "Autodonotdelete Sydneystatmp"
+            },
+            "id": {
+                "S": "ccbdf813-a66b-4adf-9edf-c43c4083bf94"
+            },
+            "email": {
+                "S": "automation+donotdeleteMP@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Murray river - swan hill"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Murray River"
+            },
+            "id": {
+                "S": "4634986b-5592-4002-8fe6-fa91192132f2"
+            },
+            "email": {
+                "S": "fohejimu@tutuapp.bid"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Sydney - Haymarket - The Rocks"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Autodonotdelete Sydneystatmp"
+            },
+            "id": {
+                "S": "938f65fc-ebb4-4ac1-b031-2cd11a1d6c3b"
+            },
+            "email": {
+                "S": "jigejody@tutuapp.bid"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Daly"
+            },
+            "electorateType": {
+                "S": "STATE"
+            },
+            "fullName": {
+                "S": "Anne Marry"
+            },
+            "id": {
+                "S": "f81bc6b9-a7a9-42f2-b7f5-d379db0a627a"
+            },
+            "email": {
+                "S": "automation+maponaze@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Hurstville"
+            },
+            "electorateType": {
+                "S": "STATE"
+            },
+            "fullName": {
+                "S": "Anne jenner"
+            },
+            "id": {
+                "S": "850087b9-2211-4b2c-9aa4-a17b327db4db"
+            },
+            "email": {
+                "S": "automation+muwohewu@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Solomon"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "John Lioan"
+            },
+            "id": {
+                "S": "fd01da97-73ac-457d-916d-29fed6d08bc4"
+            },
+            "email": {
+                "S": "automation+johnli@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Moncrieff"
+            },
+            "electorateType": {
+                "S": "STATE"
+            },
+            "fullName": {
+                "S": "test MP"
+            },
+            "id": {
+                "S": "4273778e-5745-4969-87fa-1b4773c46ce6"
+            },
+            "email": {
+                "S": "rewaqy@clout.wiki"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Monash"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Krishnamohan Ramachandran"
+            },
+            "id": {
+                "S": "b53c6238-dcd0-4fcc-b673-af08e846d784"
+            },
+            "email": {
+                "S": "qizozuci@socam.me"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Monash"
+            },
+            "electorateType": {
+                "S": "FEDRAL"
+            },
+            "fullName": {
+                "S": "Ushan Fernando"
+            },
+            "id": {
+                "S": "9f9bf8c7-0ddb-4674-b28b-c247bb5c6034"
+            },
+            "email": {
+                "S": "wenoke@socam.me"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Sydney Inner City"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Autodonotdelete Sydneylocmp"
+            },
+            "id": {
+                "S": "b752eb79-caac-4c5d-b2e3-30db82d9bbe5"
+            },
+            "email": {
+                "S": "junodana@tutuapp.bid"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "MELB"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Automationuvlga"
+            },
+            "id": {
+                "S": "6936c145-953d-42e4-b936-a79264998ecb"
+            },
+            "email": {
+                "S": "automation+MPuvlga@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Test Federal Electorate"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Test Suburb"
+            },
+            "id": {
+                "S": "15f0ab50-e5f5-400f-a2d8-e2ba73ffdd9b"
+            },
+            "email": {
+                "S": "rkrishnamohan96122222@gmail.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "MELB"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Automationykqqc"
+            },
+            "id": {
+                "S": "a51ac646-51e4-4ccc-8925-3c7b4709bd27"
+            },
+            "email": {
+                "S": "automation+MPykqqc@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Bennelong"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Autodonotdelete Fedmp"
+            },
+            "id": {
+                "S": "01ca2bce-ca36-46eb-bc20-89a11f3f4a33"
+            },
+            "email": {
+                "S": "fedesyse@finews.biz"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Mallee"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Krishnamohan Ramachandran"
+            },
+            "id": {
+                "S": "0e03f2f3-fa01-43c4-ba0c-1fca872abfe8"
+            },
+            "email": {
+                "S": "lyxiqyna@brand-app.biz"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Murray River - Swan Hill"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "nova dean"
+            },
+            "id": {
+                "S": "d09c5ea5-70f8-4b97-8017-979eeb95ce9f"
+            },
+            "email": {
+                "S": "viryzoqa@clout.wiki"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "MELB"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Automationogyyq"
+            },
+            "id": {
+                "S": "4b44571f-2ec9-465a-8def-eebcdbff9743"
+            },
+            "email": {
+                "S": "automation+MPogyyq@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Monash"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Krishnamohan Ramachandran"
+            },
+            "id": {
+                "S": "e22686db-d6b1-42d5-8da3-27dc7c82c106"
+            },
+            "email": {
+                "S": "tuzonati@brand-app.biz"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Daly"
+            },
+            "electorateType": {
+                "S": "state"
+            },
+            "fullName": {
+                "S": "Anne Marry"
+            },
+            "id": {
+                "S": "2e648c49-03a4-462c-8fac-14bddad853e4"
+            },
+            "email": {
+                "S": "maponaze@decabg.eu"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Monash"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Chathuni"
+            },
+            "id": {
+                "S": "fad2d3ec-8d1f-42b2-9e24-12f09b420dbe"
+            },
+            "email": {
+                "S": "xotikijo@socam.me"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "MELB"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Automationojdrt"
+            },
+            "id": {
+                "S": "5e3298c9-7452-4777-9239-3673a374f58d"
+            },
+            "email": {
+                "S": "automation+MPojdrt@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Yarraville"
+            },
+            "electorateType": {
+                "S": "STATE"
+            },
+            "fullName": {
+                "S": "james peter"
+            },
+            "id": {
+                "S": "5749b3af-c13f-4aeb-a048-bc1020ece232"
+            },
+            "email": {
+                "S": "wohaparo@finews.biz"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Melbourne"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Juggernut"
+            },
+            "id": {
+                "S": "84e21213-4bfa-41fe-8732-3d70e58be01c"
+            },
+            "email": {
+                "S": "jigisumy@clout.wiki"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Mount Waverley - North"
+            },
+            "electorateType": {
+                "S": "STATE"
+            },
+            "fullName": {
+                "S": "james peter"
+            },
+            "id": {
+                "S": "48899b90-0d8d-4d80-9f31-f932a1f4e716"
+            },
+            "email": {
+                "S": "taqyho@afia.pro"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Sydney - Haymarket - The Rocks"
+            },
+            "electorateType": {
+                "S": "STATE"
+            },
+            "fullName": {
+                "S": "Autodonotdelete Sydneystatmp"
+            },
+            "id": {
+                "S": "b89e1d39-b008-4676-b414-95e755629d2e"
+            },
+            "email": {
+                "S": "cyweho@clout.wiki"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Melbourne"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Krishnamohan Ramachandran"
+            },
+            "id": {
+                "S": "e6d258e5-e793-4603-a535-1515d8a4ce37"
+            },
+            "email": {
+                "S": "gegyteli@clout.wiki"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Karama"
+            },
+            "electorateType": {
+                "S": "STATE"
+            },
+            "fullName": {
+                "S": "Ben Dilan"
+            },
+            "id": {
+                "S": "920b8ebc-61a3-4bdd-8491-a9bf193a1d2a"
+            },
+            "email": {
+                "S": "automation+bendilan@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "MELB"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Automationfycfl"
+            },
+            "id": {
+                "S": "df77fc7e-381e-43eb-a395-62910aee572f"
+            },
+            "email": {
+                "S": "automation+MPfycfl@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Melboure"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Krishnamohan Ramachandran"
+            },
+            "id": {
+                "S": "52c538d0-5377-4133-a1c2-ad59cf59e8f7"
+            },
+            "email": {
+                "S": "jorexo@lyft.live"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Hornsby"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Ben Dilan"
+            },
+            "id": {
+                "S": "7a466a27-c906-4132-b5c7-5636fb31ef7d"
+            },
+            "email": {
+                "S": "automation+kuzedoqa@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Hotham"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "edwin henry"
+            },
+            "id": {
+                "S": "35593be5-1497-4936-ac4d-a8d60782473d"
+            },
+            "email": {
+                "S": "jizuhule@brand-app.biz"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Melbourne"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "andriana Wilson"
+            },
+            "id": {
+                "S": "bc1d1605-a737-4d73-bc85-93f6f42acd46"
+            },
+            "email": {
+                "S": "kazasewu@clout.wiki"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Monash"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Krishnamohan Ramachandran"
+            },
+            "id": {
+                "S": "0b834eb4-4244-4943-8dc8-1c976cc00c06"
+            },
+            "email": {
+                "S": "sohuza@brand-app.biz"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "MELB"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Automationzhbkn"
+            },
+            "id": {
+                "S": "5cf48225-d406-4cd0-8a9a-894fec5eed10"
+            },
+            "email": {
+                "S": "automation+MPzhbkn@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Melbourne"
+            },
+            "electorateType": {
+                "S": "STATE"
+            },
+            "fullName": {
+                "S": "jeniffer klowaski"
+            },
+            "id": {
+                "S": "4db2b84c-fed1-4a21-b2be-7becfcb4660d"
+            },
+            "email": {
+                "S": "gyleby@finews.biz"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Monash"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Krishnamohan Ramachandran"
+            },
+            "id": {
+                "S": "3c80b344-c038-4a73-9483-9a4a66238787"
+            },
+            "email": {
+                "S": "taduli@brand-app.biz"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Heathcote - Castlemaine - Kyneton"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "harry"
+            },
+            "id": {
+                "S": "d8ff7110-9e8b-4f8d-87a1-1c7380dcf0a4"
+            },
+            "email": {
+                "S": "xamemawu@tutuapp.bid"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Katherine"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Edward John"
+            },
+            "id": {
+                "S": "81e15507-9f17-4393-b554-331d95cff1b3"
+            },
+            "email": {
+                "S": "edward@gmail.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Sydney - Haymarket - The Rocks"
+            },
+            "electorateType": {
+                "S": "STATE"
+            },
+            "fullName": {
+                "S": "Autodonotdelete Sydneystatmp"
+            },
+            "id": {
+                "S": "0ce6131c-a748-45a7-9d5b-8717d60c7a9b"
+            },
+            "email": {
+                "S": "automation+donotdeletesydMP@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Monash"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Krishnamohan Ramachandran"
+            },
+            "id": {
+                "S": "0a5a5eb5-2b91-4b53-bd26-59984a81a32e"
+            },
+            "email": {
+                "S": "sikapuju@brand-app.biz"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Melbourne"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Krishnamohan Ramachandran"
+            },
+            "id": {
+                "S": "6abd3e54-7a07-4d08-af17-fa3245d253e4"
+            },
+            "email": {
+                "S": "terily@tutuapp.bid"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Melbourne"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Simon"
+            },
+            "id": {
+                "S": "d1943e3d-0c28-460a-8847-9f9318285b88"
+            },
+            "email": {
+                "S": "rilixeba@socam.me"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Melbourne city"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Melbourne City"
+            },
+            "id": {
+                "S": "67f21270-6061-456d-a4b1-358eb31d9ea4"
+            },
+            "email": {
+                "S": "mylifori@lyft.live"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "MELB"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Automationitcpb"
+            },
+            "id": {
+                "S": "5eea6780-259e-4dfa-83eb-535095e71436"
+            },
+            "email": {
+                "S": "automation+MPitcpb@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Nicholls"
+            },
+            "electorateType": {
+                "S": "federal"
+            },
+            "fullName": {
+                "S": "teddy clove"
+            },
+            "id": {
+                "S": "bee5a4a1-d49c-4a1d-a1ea-54e17832062d"
+            },
+            "email": {
+                "S": "hagaqaju@clout.wiki"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Mallee"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "james davin"
+            },
+            "id": {
+                "S": "4aea702e-71c2-4db3-b7c1-9f3e8c24860c"
+            },
+            "email": {
+                "S": "guroluco@lyft.live"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "MELB"
+            },
+            "electorateType": {
+                "S": "LOCAL"
+            },
+            "fullName": {
+                "S": "Automationeapgb"
+            },
+            "id": {
+                "S": "cfef82be-2bda-4537-b7e4-5ebedbb118f9"
+            },
+            "email": {
+                "S": "automation+MPeapgb@bugfoo.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "Solomon"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "John Lioan"
+            },
+            "id": {
+                "S": "cb022373-b214-4a8b-a035-728c5112f2cd"
+            },
+            "email": {
+                "S": "johnli@gmail.com"
+            }
+        },
+        {
+            "electorateName": {
+                "S": "monash"
+            },
+            "electorateType": {
+                "S": "FEDERAL"
+            },
+            "fullName": {
+                "S": "Krishnamohan Ramachandran"
+            },
+            "id": {
+                "S": "87820064-1f89-401b-96f3-1befa374e587"
+            },
+            "email": {
+                "S": "verepivo@finews.biz"
+            }
+        }
+    ],
+    "Count": 76,
+    "ScannedCount": 76,
+    "ConsumedCapacity": null
+}

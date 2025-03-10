@@ -1,0 +1,433 @@
+Resources: 
+  Challenges:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: ${env:CHALLENGES_TABLE}
+      ProvisionedThroughput:
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1
+      KeySchema:
+        - AttributeName: pk
+          KeyType: HASH
+      AttributeDefinitions:
+        - AttributeName: pk
+          AttributeType: S
+        - AttributeName: postsCount
+          AttributeType: N
+        - AttributeName: challengeStatus
+          AttributeType: S
+      GlobalSecondaryIndexes:
+        - IndexName: PostCountIndex
+          KeySchema:
+            - AttributeName: challengeStatus
+              KeyType: HASH
+            - AttributeName: postsCount
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+
+  Posts:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: ${env:POSTS_TABLE}
+      ProvisionedThroughput:
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1
+      KeySchema:
+        - AttributeName: pk
+          KeyType: HASH
+        - AttributeName: sk
+          KeyType: RANGE
+      AttributeDefinitions:
+        - AttributeName: pk
+          AttributeType: S
+        - AttributeName: sk
+          AttributeType: S
+        - AttributeName: createdAt
+          AttributeType: S
+        - AttributeName: postId
+          AttributeType: S
+        - AttributeName: itemType
+          AttributeType: S
+        - AttributeName: positiveVotes
+          AttributeType: N
+        - AttributeName: searchableText
+          AttributeType: S
+        - AttributeName: challengeId
+          AttributeType: S
+        - AttributeName: uniqueCommunity
+          AttributeType: S
+
+      GlobalSecondaryIndexes:
+        - IndexName: DateSortedIndex
+          KeySchema:
+            - AttributeName: pk
+              KeyType: HASH
+            - AttributeName: createdAt
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+
+        - IndexName: IdSortedIndex
+          KeySchema:
+            - AttributeName: postId
+              KeyType: HASH
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+
+        - IndexName: SortedCommunityIndex
+          KeySchema:
+            - AttributeName: uniqueCommunity
+              KeyType: HASH
+            - AttributeName: createdAt
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+
+        - IndexName: TopProposalsIndex
+          KeySchema:
+            - AttributeName: itemType
+              KeyType: HASH
+            - AttributeName: positiveVotes
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+
+        - IndexName: SearchIndex
+          KeySchema:
+            - AttributeName: itemType
+              KeyType: HASH
+            - AttributeName: searchableText
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "INCLUDE"
+            NonKeyAttributes:
+              - "postId"
+              - "challenge"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+
+        - IndexName: ChallengeIndex
+          KeySchema:
+            - AttributeName: challengeId
+              KeyType: HASH
+            - AttributeName: createdAt
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+
+  MPPosts:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: ${env:MP_POSTS_TABLE}
+      ProvisionedThroughput:
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1
+      KeySchema:
+        - AttributeName: userID
+          KeyType: HASH
+        - AttributeName: sk
+          KeyType: RANGE
+      AttributeDefinitions:
+        - AttributeName: userID
+          AttributeType: S
+        - AttributeName: sk
+          AttributeType: S
+        - AttributeName: createdAt
+          AttributeType: S
+        - AttributeName: postId
+          AttributeType: S
+        - AttributeName: itemType
+          AttributeType: S
+        - AttributeName: positiveVotes
+          AttributeType: N
+        - AttributeName: searchableText
+          AttributeType: S
+        - AttributeName: challengeId
+          AttributeType: S
+        - AttributeName: uniqueCommunity
+          AttributeType: S
+
+      GlobalSecondaryIndexes:
+        - IndexName: SortedCommunityIndex
+          KeySchema:
+            - AttributeName: uniqueCommunity
+              KeyType: HASH
+            - AttributeName: createdAt
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+
+        - IndexName: SortedIndex
+          KeySchema:
+            - AttributeName: userID
+              KeyType: HASH
+            - AttributeName: createdAt
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+        - IndexName: IdSortedIndex
+          KeySchema:
+            - AttributeName: postId
+              KeyType: HASH
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+        - IndexName: TopProposalsIndex
+          KeySchema:
+            - AttributeName: itemType
+              KeyType: HASH
+            - AttributeName: positiveVotes
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+        - IndexName: SearchIndex
+          KeySchema:
+            - AttributeName: itemType
+              KeyType: HASH
+            - AttributeName: searchableText
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "INCLUDE"
+            NonKeyAttributes:
+              - "postId"
+              - "challenge"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+
+        - IndexName: ChallengeIndex
+          KeySchema:
+            - AttributeName: challengeId
+              KeyType: HASH
+            - AttributeName: createdAt
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+
+  Followers:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: ${env:FOLLOWERS_TABLE}
+      ProvisionedThroughput:
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1
+      KeySchema:
+        - AttributeName: userID
+          KeyType: HASH
+        - AttributeName: sk
+          KeyType: RANGE
+      AttributeDefinitions:
+        - AttributeName: userID
+          AttributeType: S
+        - AttributeName: sk
+          AttributeType: S
+        - AttributeName: followerID
+          AttributeType: S
+        - AttributeName: challengeId
+          AttributeType: S
+        - AttributeName: postId
+          AttributeType: S
+      GlobalSecondaryIndexes:
+        - IndexName: InvertedIndex
+          KeySchema:
+            - AttributeName: followerID
+              KeyType: HASH
+            - AttributeName: userID
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+        - IndexName: ChallengesIndex
+          KeySchema:
+            - AttributeName: challengeId
+              KeyType: HASH
+            - AttributeName: userID
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+        - IndexName: PostIndex
+          KeySchema:
+            - AttributeName: postId
+              KeyType: HASH
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+  Feeds:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: ${env:FEEDS_TABLE}
+      ProvisionedThroughput:
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1
+      KeySchema:
+        - AttributeName: pk
+          KeyType: HASH
+        - AttributeName: postID
+          KeyType: RANGE
+      AttributeDefinitions:
+        - AttributeName: pk
+          AttributeType: S
+        - AttributeName: userID
+          AttributeType: S
+        - AttributeName: postID
+          AttributeType: S
+        - AttributeName: createdAt
+          AttributeType: S
+      GlobalSecondaryIndexes:
+        - IndexName: SortedIndex
+          KeySchema:
+            - AttributeName: userID
+              KeyType: HASH
+            - AttributeName: createdAt
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+        - IndexName: SortedElectorateIndex
+          KeySchema:
+            - AttributeName: pk
+              KeyType: HASH
+            - AttributeName: createdAt
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+  Comments:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: ${env:COMMENTS_TABLE}
+      ProvisionedThroughput:
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1
+      KeySchema:
+        - AttributeName: postID
+          KeyType: HASH
+        - AttributeName: commentID
+          KeyType: RANGE
+      AttributeDefinitions:
+        - AttributeName: postID
+          AttributeType: S
+        - AttributeName: commentID
+          AttributeType: S
+        - AttributeName: createdAt
+          AttributeType: S
+      GlobalSecondaryIndexes:
+        - IndexName: SortedIndex
+          KeySchema:
+            - AttributeName: postID
+              KeyType: HASH
+            - AttributeName: createdAt
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+  Votes:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: ${env:VOTES_TABLE}
+      ProvisionedThroughput:
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1
+      KeySchema:
+        - AttributeName: userID
+          KeyType: HASH
+        - AttributeName: sk
+          KeyType: RANGE
+      AttributeDefinitions:
+        - AttributeName: userID
+          AttributeType: S
+        - AttributeName: sk
+          AttributeType: S
+        - AttributeName: postID
+          AttributeType: S
+      GlobalSecondaryIndexes:
+        - IndexName: PostsIndex
+          KeySchema:
+            - AttributeName: userID
+              KeyType: HASH
+            - AttributeName: postID
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+
+  Notifications:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: ${env:NOTIFICATIONS_TABLE}
+      ProvisionedThroughput:
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1
+      KeySchema:
+        - AttributeName: userID
+          KeyType: HASH
+        - AttributeName: notificationId
+          KeyType: RANGE
+      AttributeDefinitions:
+        - AttributeName: userID
+          AttributeType: S
+        - AttributeName: createdAt
+          AttributeType: S
+        - AttributeName: notificationId
+          AttributeType: S
+      GlobalSecondaryIndexes:
+        - IndexName: SortedIndex
+          KeySchema:
+            - AttributeName: userID
+              KeyType: HASH
+            - AttributeName: createdAt
+              KeyType: RANGE
+          Projection:
+            ProjectionType: "ALL"
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1

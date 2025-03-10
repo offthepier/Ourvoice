@@ -1,0 +1,2298 @@
+{
+    "Items": [
+        {
+            "userLastName": {
+                "S": "Covalschi"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "8ba64808-f42c-4ec8-a038-634ab325550e"
+            },
+            "userID": {
+                "S": "covalschicarmen@gmail.com"
+            },
+            "userFirstName": {
+                "S": "Carmen"
+            },
+            "createdAt": {
+                "S": "2023-03-12T01:12:42.916Z"
+            },
+            "comment": {
+                "S": "It is a problem even for those who drive petrol cars. The diesel pollution affects the quality of life of people and animals. "
+            },
+            "commentType": {
+                "S": "POSITIVE"
+            },
+            "postID": {
+                "S": "a6c913f6-de87-49e3-9351-b7b383bc5850"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "Covalschi"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "f76923df-40f7-4b72-9cb9-526a4a9cf1f5"
+            },
+            "userID": {
+                "S": "covalschicarmen@gmail.com"
+            },
+            "userFirstName": {
+                "S": "Carmen"
+            },
+            "createdAt": {
+                "S": "2023-03-12T01:09:39.315Z"
+            },
+            "comment": {
+                "S": "this is not a priority for the majority of people who use petrol cars. "
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "a6c913f6-de87-49e3-9351-b7b383bc5850"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "marry"
+            },
+            "likesCount": {
+                "N": "1"
+            },
+            "commentID": {
+                "S": "2f9bc1b4-a37a-4148-b245-c14da3139e39"
+            },
+            "userID": {
+                "S": "zydezymu@lyft.live"
+            },
+            "userFirstName": {
+                "S": "Janne"
+            },
+            "comment": {
+                "S": "test\ntest\nPolitical survey questions are questions asked to gather the opinions and attitudes of potential voters. Such questionnaires are used by political action committees, city council members, political consultants, school board districts, government agencies, and political candidates.\nPolitical survey questions are questions asked to gather the opinions and attitudes of potential voters. Such questionnaires are used by political action committees, city council members, political consultants, school board districts, government agencies, and political candidates."
+            },
+            "createdAt": {
+                "S": "2023-03-08T12:40:13.576Z"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#2b5bb750-a2cf-4f78-960d-eab3e8edc335"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "marry"
+            },
+            "likesCount": {
+                "N": "2"
+            },
+            "commentID": {
+                "S": "445b65b6-aadb-4a65-b1c9-6f620d61d691"
+            },
+            "userID": {
+                "S": "zydezymu@lyft.live"
+            },
+            "userFirstName": {
+                "S": "Janne"
+            },
+            "comment": {
+                "S": "Political survey questions are questions asked to gather the opinions and attitudes of potential voters. Such questionnaires are used by political action committees, city council members, political consultants, school board districts, government agencies, and political candidates.  Political survey questions help you identify supporters and understand what the public needs. Using such questions, a political candidate or an organization can formulate policies to gain support from these people. Such survey questions can help map the political landscape, strategize marketing messages, and increase support from potential voters."
+            },
+            "createdAt": {
+                "S": "2023-03-08T12:17:32.748Z"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#2b5bb750-a2cf-4f78-960d-eab3e8edc335"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "marry"
+            },
+            "likesCount": {
+                "N": "2"
+            },
+            "commentID": {
+                "S": "991b36fb-9373-4045-8a0b-177c8deaa74e"
+            },
+            "userID": {
+                "S": "zydezymu@lyft.live"
+            },
+            "userFirstName": {
+                "S": "Janne"
+            },
+            "comment": {
+                "S": "Political survey questions are questions asked to gather the opinions and attitudes of potential voters. Such questionnaires are used by political action committees, city council members, political consultants, school board districts, government agencies, and political candidates.  Political survey questions help you identify supporters and understand what the public needs. Using such questions, a political candidate or an organization can formulate policies to gain support from these people. Such survey questions can help map the political landscape, strategize marketing messages, and increase support from potential voters."
+            },
+            "createdAt": {
+                "S": "2023-03-08T12:37:40.989Z"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#2b5bb750-a2cf-4f78-960d-eab3e8edc335"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "peter"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "f3ae80ad-e8c5-40af-a3ab-674d561718de"
+            },
+            "userID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "cherry"
+            },
+            "createdAt": {
+                "S": "2023-06-06T05:00:33.989Z"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "dc55aa8e-2c34-40ec-bdee-25da08e98a53"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "thomas"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "65524e21-964f-4929-af20-2988e6d133d5"
+            },
+            "userID": {
+                "S": "ripugegy@decabg.eu"
+            },
+            "userFirstName": {
+                "S": "kim"
+            },
+            "createdAt": {
+                "S": "2023-05-26T01:57:23.301Z"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#cb28398d-4735-4c79-8f89-5f1de060ce4b"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "peter"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "aced28e4-eb07-4f6d-b366-3202fe703b74"
+            },
+            "userID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "cherry"
+            },
+            "createdAt": {
+                "S": "2023-05-26T02:01:06.608Z"
+            },
+            "comment": {
+                "S": "cmnt"
+            },
+            "commentType": {
+                "S": "POSITIVE"
+            },
+            "postID": {
+                "S": "MP#cb28398d-4735-4c79-8f89-5f1de060ce4b"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "mp"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "c7af7122-1d83-4d5c-acb0-af967c06a7d2"
+            },
+            "userID": {
+                "S": "kejadiqu@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "shep"
+            },
+            "createdAt": {
+                "S": "2023-05-23T18:29:33.687Z"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#cb28398d-4735-4c79-8f89-5f1de060ce4b"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "blue"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "ce22312f-30e3-49a0-8542-4878ced42381"
+            },
+            "userID": {
+                "S": "xigixu@finews.biz"
+            },
+            "userFirstName": {
+                "S": "jasmine"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "createdAt": {
+                "S": "2023-03-07T04:16:07.040Z"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#cb28398d-4735-4c79-8f89-5f1de060ce4b"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "Kowalski"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "886aacce-bf50-4719-8393-b78d0b3f04b7"
+            },
+            "userID": {
+                "S": "eddie.kowalski@gmail.com"
+            },
+            "userFirstName": {
+                "S": "Eddie"
+            },
+            "createdAt": {
+                "S": "2023-04-07T23:13:39.660Z"
+            },
+            "comment": {
+                "S": "This is a great initiative "
+            },
+            "commentType": {
+                "S": "POSITIVE"
+            },
+            "postID": {
+                "S": "8a8e429a-ff3b-4b40-addf-6444f22392ac"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "Ramachandran"
+            },
+            "likesCount": {
+                "N": "1"
+            },
+            "commentID": {
+                "S": "a67323c4-da69-4aa8-9692-fe9e214f0164"
+            },
+            "userID": {
+                "S": "rkrishnamohan96@gmail.com"
+            },
+            "userFirstName": {
+                "S": "Krishnamohan"
+            },
+            "comment": {
+                "S": "This is not a good post.🤣"
+            },
+            "createdAt": {
+                "S": "2023-03-09T06:37:01.939Z"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#8f2f630f-c7dd-4223-9adf-de85f4ba7dc5"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "thomas"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "16bd5d1c-9261-473d-be71-1724adad86cf"
+            },
+            "userID": {
+                "S": "ripugegy@decabg.eu"
+            },
+            "userFirstName": {
+                "S": "kim"
+            },
+            "createdAt": {
+                "S": "2023-05-26T01:56:34.206Z"
+            },
+            "comment": {
+                "S": "cmnt"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#e523a736-6da7-47f8-96aa-27fb4b3c2c14"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "peter"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "b0f2a9f7-fa36-4ca6-88aa-e745e87491b5"
+            },
+            "userID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "cherry"
+            },
+            "createdAt": {
+                "S": "2023-05-26T01:56:01.873Z"
+            },
+            "comment": {
+                "S": "cmnt"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#e523a736-6da7-47f8-96aa-27fb4b3c2c14"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "Bruders"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "e5ba4686-ed48-4184-bfd9-38fe31fb7270"
+            },
+            "userID": {
+                "S": "ashleigh@speckledigital.com"
+            },
+            "userFirstName": {
+                "S": "Ashleigh"
+            },
+            "createdAt": {
+                "S": "2023-05-26T07:13:31.224Z"
+            },
+            "comment": {
+                "S": "Test comment"
+            },
+            "commentType": {
+                "S": "POSITIVE"
+            },
+            "postID": {
+                "S": "MP#e1a9e092-fe78-49ad-9cca-f38419dc37b2"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "fedrick"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "4a7ced6e-515d-4f80-aea2-53a4fa4e5490"
+            },
+            "userID": {
+                "S": "kavugany@lyricspad.net"
+            },
+            "userFirstName": {
+                "S": "noel"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "createdAt": {
+                "S": "2023-02-24T11:48:33.361Z"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#6d65084d-5d53-40ce-9913-faecf2202bea"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "fedrick"
+            },
+            "likesCount": {
+                "N": "2"
+            },
+            "commentID": {
+                "S": "d58651f7-ef91-4f63-a830-699f7c877c7a"
+            },
+            "userID": {
+                "S": "kavugany@lyricspad.net"
+            },
+            "userFirstName": {
+                "S": "noel"
+            },
+            "comment": {
+                "S": "There has been a growing consumerism in health care, exemplified by increases in access to health information on the Internet and other media (Calabretta, 2002; Frosch and Kaplan, 1999; Gerteis et al., 1993; Mansell et al., 2000; Mazur and Hickam, 1997). Largely as a result of the Internet, patients and their families are now better educated and informed about their health care. As a consequence, some patients want to be able to make their own decisions about diagnosis and treatment, bringing their own information and values to bear, with the expectation that, together with their health care providers, they will manage their illness or disease (Benbassat et al., 1998). In one survey, only 16 percent had sought health information via the Internet (Tu, 2003). While in another, 76 percent of respondents said they had searched the Internet for health information (Taylor, 2002). In that survey, 83 percent of respondents said they would like the results of their laboratory tests to be available online, and 69 percent expressed their desire for online charts for use in monitoring their chronic conditions over time. An annual Harris Interactive Survey spanning 1998–2002 shows a steady rise in adults who sometimes look for health information online. One survey showed that individuals span the education and income spectrum (Taylor, 2002) while another showed that higher educated individuals are more likely to search the Internet for health information (Tu, 2003)..There has been a growing consumerism in health care, exemplified by increases in access to health information on the Internet and other media (Calabretta, 2002; Frosch and Kaplan, 1999; Gerteis et al., 1993; Mansell et al., 2000; Mazur and Hickam, 1997).  while another showed that higher educated individuals are more likely to search the Internet for health information (Tu, 2003)..There has been a growing consumerism in health care, exemplified by increases in access to health information on the Internet and other media (Calabretta, 2002; Frosch and Kaplan, 1999; Gerteis et al., 1993; Mansell et al., 2000; Mazur and Hickam, 1997). "
+            },
+            "createdAt": {
+                "S": "2023-02-24T12:58:30.759Z"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#6d65084d-5d53-40ce-9913-faecf2202bea"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "thomas"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "84fff684-09c0-4189-bdb7-aaf25b9a11a9"
+            },
+            "userID": {
+                "S": "ripugegy@decabg.eu"
+            },
+            "userFirstName": {
+                "S": "kim"
+            },
+            "createdAt": {
+                "S": "2023-05-28T01:01:36.152Z"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "dfadfac7-3f4c-468d-aca1-be652919cb97"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "Featherstonehaugh"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "f96ff469-76a6-4958-9643-11d8ce100856"
+            },
+            "userID": {
+                "S": "teraba@lyricspad.net"
+            },
+            "userFirstName": {
+                "S": "henry"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "createdAt": {
+                "S": "2023-05-25T11:24:48.699Z"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "dfadfac7-3f4c-468d-aca1-be652919cb97"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "Kowalski"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "8a23f802-ba39-4790-81b2-19b261b809cb"
+            },
+            "userID": {
+                "S": "eddie.kowalski@gmail.com"
+            },
+            "userFirstName": {
+                "S": "Eddie"
+            },
+            "createdAt": {
+                "S": "2023-02-28T22:43:33.896Z"
+            },
+            "comment": {
+                "S": "I think this post is incorrect"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "92a820bd-8c7f-46c2-8289-b4bb03584bd3"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "Galabada"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "9f06bc63-e8a6-4f37-92d5-a6a8444d7bae"
+            },
+            "userID": {
+                "S": "varuna@swivelgroup.com.au"
+            },
+            "userFirstName": {
+                "S": "Varuna"
+            },
+            "createdAt": {
+                "S": "2023-02-24T07:55:27.575Z"
+            },
+            "comment": {
+                "S": "first comment"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "687cde97-c15e-407a-9822-19201b1625c4"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "peter"
+            },
+            "likesCount": {
+                "N": "1"
+            },
+            "commentID": {
+                "S": "a9252685-b91b-4407-b216-0b7536776a5c"
+            },
+            "userID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "cherry"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "createdAt": {
+                "S": "2023-05-25T15:31:36.023Z"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#38abcc89-f28d-4d4a-a2d2-d8e765730b00"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "thomas"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "ef17182a-6379-4ede-bea9-3bce519f87de"
+            },
+            "userID": {
+                "S": "ripugegy@decabg.eu"
+            },
+            "userFirstName": {
+                "S": "kim"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "createdAt": {
+                "S": "2023-05-26T07:47:16.755Z"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#38abcc89-f28d-4d4a-a2d2-d8e765730b00"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "Featherstonehaugh"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "66e43b17-5a81-4c94-8e6b-800206d810ec"
+            },
+            "userID": {
+                "S": "teraba@lyricspad.net"
+            },
+            "userFirstName": {
+                "S": "henry"
+            },
+            "createdAt": {
+                "S": "2023-05-25T11:26:16.390Z"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "40ae27d7-6a68-4299-bf1e-0a7829d2ea03"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "wilson"
+            },
+            "likesCount": {
+                "N": "2"
+            },
+            "commentID": {
+                "S": "d37ed409-4f39-4a59-aa08-1b1b5ea4ee64"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "userFirstName": {
+                "S": "Ginny"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "createdAt": {
+                "S": "2023-05-25T08:42:04.911Z"
+            },
+            "commentType": {
+                "S": "NEGATIVE"
+            },
+            "postID": {
+                "S": "40ae27d7-6a68-4299-bf1e-0a7829d2ea03"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "fedrick"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "030d002c-6fb9-4d99-be3c-35fbee84b317"
+            },
+            "userID": {
+                "S": "kavugany@lyricspad.net"
+            },
+            "userFirstName": {
+                "S": "noel"
+            },
+            "createdAt": {
+                "S": "2023-02-24T16:19:30.284Z"
+            },
+            "comment": {
+                "S": "sample"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#d2131706-fcca-4c24-a621-90d843709cd8"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "jenner"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "60643cf1-2046-4395-abdf-ca4cf3cff988"
+            },
+            "userID": {
+                "S": "suxixomy@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "kendel"
+            },
+            "createdAt": {
+                "S": "2023-02-24T16:18:16.377Z"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#d2131706-fcca-4c24-a621-90d843709cd8"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "peter"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "fb2e5e0d-8d8c-463a-97eb-e4e130044932"
+            },
+            "userID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "cherry"
+            },
+            "createdAt": {
+                "S": "2023-02-24T16:16:45.839Z"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#d2131706-fcca-4c24-a621-90d843709cd8"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "Kristy"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "34fbe007-158c-45aa-8038-c6f4d67c14a3"
+            },
+            "userID": {
+                "S": "covoh52463@mitigado.com"
+            },
+            "userFirstName": {
+                "S": "George"
+            },
+            "createdAt": {
+                "S": "2023-04-03T03:16:49.453Z"
+            },
+            "comment": {
+                "S": "I'm supporting this"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#81a46f32-8b2e-4860-8bfd-bf7e4da2436f"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "blu"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "d620c5af-91af-4225-b126-e9bc39dfb950"
+            },
+            "userID": {
+                "S": "xigixu@finews.biz"
+            },
+            "userFirstName": {
+                "S": "jasmine"
+            },
+            "createdAt": {
+                "S": "2023-02-24T15:28:00.269Z"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#5e691063-5f45-4d35-bae6-ea2e820736ef"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "blue"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "72736de0-a47c-4865-a6bf-714f81e40069"
+            },
+            "userID": {
+                "S": "xigixu@finews.biz"
+            },
+            "userFirstName": {
+                "S": "jasmine"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "createdAt": {
+                "S": "2023-03-06T18:43:22.764Z"
+            },
+            "commentType": {
+                "S": "POSITIVE"
+            },
+            "postID": {
+                "S": "43f5441b-e93d-4968-898a-3d739b7e9f7e"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "blue"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "e921fb6e-94f8-4c0f-8282-b811ee20f148"
+            },
+            "userID": {
+                "S": "xigixu@finews.biz"
+            },
+            "userFirstName": {
+                "S": "jasmine"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "createdAt": {
+                "S": "2023-03-06T18:48:22.832Z"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "43f5441b-e93d-4968-898a-3d739b7e9f7e"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "MP"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "b5696b29-3cda-4912-8aa8-5f5e06b10822"
+            },
+            "userID": {
+                "S": "edward.kowalski@gmail.com"
+            },
+            "userFirstName": {
+                "S": "Test"
+            },
+            "createdAt": {
+                "S": "2023-03-11T23:24:34.531Z"
+            },
+            "comment": {
+                "S": "czxgsg"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#b7a77db4-7099-4ba0-b82e-bc7b7e0c0ced"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "MP"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "e85a4889-3236-4fad-ac19-e5c81d852c03"
+            },
+            "userID": {
+                "S": "edward.kowalski@gmail.com"
+            },
+            "userFirstName": {
+                "S": "Test"
+            },
+            "createdAt": {
+                "S": "2023-03-11T23:30:12.204Z"
+            },
+            "comment": {
+                "S": "Test comment"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#b7a77db4-7099-4ba0-b82e-bc7b7e0c0ced"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "derry"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "d2778bee-62a7-4cde-a8a6-b1b9700edff8"
+            },
+            "userID": {
+                "S": "bikujico@clout.wiki"
+            },
+            "userFirstName": {
+                "S": "james"
+            },
+            "createdAt": {
+                "S": "2023-05-23T09:00:28.518Z"
+            },
+            "comment": {
+                "S": "testttt"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "b5580aa6-da5f-4d4c-9ad1-d71189880039"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "wilson"
+            },
+            "likesCount": {
+                "N": "2"
+            },
+            "commentID": {
+                "S": "0e35b429-845a-4501-9a7b-fa239894a966"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "userFirstName": {
+                "S": "Ginny"
+            },
+            "comment": {
+                "S": "add"
+            },
+            "createdAt": {
+                "S": "2023-05-23T14:17:06.839Z"
+            },
+            "commentType": {
+                "S": "POSITIVE"
+            },
+            "postID": {
+                "S": "MP#5c6ac73b-2287-436d-97b6-fe51de523055"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "peter"
+            },
+            "likesCount": {
+                "N": "1"
+            },
+            "commentID": {
+                "S": "15481cb9-5d9e-480c-b61d-abeae874c98e"
+            },
+            "userID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "cherry"
+            },
+            "comment": {
+                "S": "Test 1"
+            },
+            "createdAt": {
+                "S": "2023-05-22T08:56:41.035Z"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#5c6ac73b-2287-436d-97b6-fe51de523055"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "peter"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "6a380ad8-1a04-48cf-8bbb-ebb657b35753"
+            },
+            "userID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "cherry"
+            },
+            "comment": {
+                "S": "Cool 🤣"
+            },
+            "createdAt": {
+                "S": "2023-05-22T09:17:42.094Z"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#5c6ac73b-2287-436d-97b6-fe51de523055"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "peter"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "84e7f56a-b6fe-4b90-8044-b9818bc8a155"
+            },
+            "userID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "cherry"
+            },
+            "createdAt": {
+                "S": "2023-05-22T08:56:15.206Z"
+            },
+            "comment": {
+                "S": "Test"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#5c6ac73b-2287-436d-97b6-fe51de523055"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "fedrick"
+            },
+            "likesCount": {
+                "N": "2"
+            },
+            "commentID": {
+                "S": "854a9499-a3e9-44a1-b5ef-5311528a7ba9"
+            },
+            "userID": {
+                "S": "kavugany@lyricspad.net"
+            },
+            "userFirstName": {
+                "S": "noel"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "createdAt": {
+                "S": "2023-05-23T12:37:40.361Z"
+            },
+            "commentType": {
+                "S": "NEGATIVE"
+            },
+            "postID": {
+                "S": "MP#5c6ac73b-2287-436d-97b6-fe51de523055"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "Wu"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "098d0b7c-bc3a-475d-9ef5-81c10c4108ec"
+            },
+            "userID": {
+                "S": "1071890207@qq.com"
+            },
+            "userFirstName": {
+                "S": "Chaojie"
+            },
+            "createdAt": {
+                "S": "2023-08-27T11:43:06.309Z"
+            },
+            "comment": {
+                "S": "2"
+            },
+            "commentType": {
+                "S": "NEGATIVE"
+            },
+            "postID": {
+                "S": "0f96c7e1-6ec2-41b4-bc6a-36cd8db7b03a"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "Wu"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "e077ee40-edf1-4686-9679-0fa446a5ee9f"
+            },
+            "userID": {
+                "S": "1071890207@qq.com"
+            },
+            "userFirstName": {
+                "S": "Chaojie"
+            },
+            "createdAt": {
+                "S": "2023-08-27T11:42:32.394Z"
+            },
+            "comment": {
+                "S": "1"
+            },
+            "commentType": {
+                "S": "POSITIVE"
+            },
+            "postID": {
+                "S": "0f96c7e1-6ec2-41b4-bc6a-36cd8db7b03a"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "Kowalski"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "c3e7ecfc-79a7-4b65-aacf-b3da0891da80"
+            },
+            "userID": {
+                "S": "eddie.kowalski@gmail.com"
+            },
+            "userFirstName": {
+                "S": "Eddie"
+            },
+            "createdAt": {
+                "S": "2023-07-19T05:35:32.801Z"
+            },
+            "comment": {
+                "S": "Great post Joseph Camilleri. Perhaps the falure of the Yes campaign has its roots in something much deeper and that is a lack of empathy for the other side of the argument, and an us vs them approach.\n\nThis may be justified based on the ongoing trench warfare observed through an adversarial system of government, but \"an eye for an eye will make the whole world blind\". "
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "d8b0fba2-599c-46d1-b144-66deedfcfec9"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "Kowalski"
+            },
+            "likesCount": {
+                "N": "1"
+            },
+            "commentID": {
+                "S": "6fb6c98e-e67c-42f7-b84b-637749e433cf"
+            },
+            "userID": {
+                "S": "eddie.kowalski@gmail.com"
+            },
+            "userFirstName": {
+                "S": "Eddie"
+            },
+            "comment": {
+                "S": "Whilst this is a step in the right direction, what about other minority groups? What is the government doing to ensure their voices are also heard in Parliament?"
+            },
+            "createdAt": {
+                "S": "2023-03-04T22:53:42.051Z"
+            },
+            "commentType": {
+                "S": "NEGATIVE"
+            },
+            "postID": {
+                "S": "MP#0394ae31-7692-491e-a7dc-b7c0aaf86337"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "Kowalski"
+            },
+            "likesCount": {
+                "N": "1"
+            },
+            "commentID": {
+                "S": "eb560bde-3f18-460c-8293-5103ac47937b"
+            },
+            "userID": {
+                "S": "eddie.kowalski@gmail.com"
+            },
+            "userFirstName": {
+                "S": "Eddie"
+            },
+            "comment": {
+                "S": "A voice to parliament would simply restore an inequality that exists today and is therefore is great initative"
+            },
+            "createdAt": {
+                "S": "2023-03-04T22:52:07.519Z"
+            },
+            "commentType": {
+                "S": "POSITIVE"
+            },
+            "postID": {
+                "S": "MP#0394ae31-7692-491e-a7dc-b7c0aaf86337"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "user"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "7d6a7b4d-d586-4c37-967f-4795ce9e5563"
+            },
+            "userID": {
+                "S": "bulikyga@tutuapp.bid"
+            },
+            "userFirstName": {
+                "S": "ganwarra"
+            },
+            "createdAt": {
+                "S": "2023-05-23T12:18:38.096Z"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#3233f1e1-8689-42f9-b74c-8c273c71d4c8"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "peter"
+            },
+            "likesCount": {
+                "N": "1"
+            },
+            "commentID": {
+                "S": "26dcbcd2-f3a9-4010-88c6-c58bc461cdf2"
+            },
+            "userID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "cherry"
+            },
+            "comment": {
+                "S": "test https://www.lipsum.com/"
+            },
+            "createdAt": {
+                "S": "2023-03-14T07:32:40.074Z"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#7179b3c7-ff3c-4b44-b24d-b7071e5da021"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "fedrick"
+            },
+            "likesCount": {
+                "N": "1"
+            },
+            "commentID": {
+                "S": "067d0c4d-6290-4b1a-b099-00997688cdb4"
+            },
+            "userID": {
+                "S": "kavugany@lyricspad.net"
+            },
+            "userFirstName": {
+                "S": "noel"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "createdAt": {
+                "S": "2023-02-24T13:01:37.482Z"
+            },
+            "commentType": {
+                "S": "POSITIVE"
+            },
+            "postID": {
+                "S": "MP#69de21e2-26fd-4b60-8e4c-665250856674"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "fedrick"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "7a7fd3ed-8816-41b8-8ef7-67d0f248f052"
+            },
+            "userID": {
+                "S": "kavugany@lyricspad.net"
+            },
+            "userFirstName": {
+                "S": "noel"
+            },
+            "createdAt": {
+                "S": "2023-02-24T13:01:31.510Z"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "commentType": {
+                "S": "NEGATIVE"
+            },
+            "postID": {
+                "S": "MP#69de21e2-26fd-4b60-8e4c-665250856674"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "wilson"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "3da0a8d1-6017-4673-8544-e1954cd832f5"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "userFirstName": {
+                "S": "Ginny"
+            },
+            "createdAt": {
+                "S": "2023-05-23T01:19:55.560Z"
+            },
+            "comment": {
+                "S": "😇"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#909971df-b83d-4109-b3de-3d0760828fad"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "blue"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "c1e17eb5-80c9-49aa-a59b-f3a4a6184bd5"
+            },
+            "userID": {
+                "S": "xigixu@finews.biz"
+            },
+            "userFirstName": {
+                "S": "jasmine"
+            },
+            "createdAt": {
+                "S": "2023-03-07T11:55:44.723Z"
+            },
+            "comment": {
+                "S": "test https://www.questionpro.com/blog/political-survey-questions/"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#909971df-b83d-4109-b3de-3d0760828fad"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "wilson"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "cfd4fcb6-44e7-40b1-ae37-a6df5703ca9b"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "userFirstName": {
+                "S": "Ginny"
+            },
+            "createdAt": {
+                "S": "2023-05-23T01:19:38.689Z"
+            },
+            "comment": {
+                "S": "test \ntesting \ntest"
+            },
+            "commentType": {
+                "S": "NEGATIVE"
+            },
+            "postID": {
+                "S": "MP#909971df-b83d-4109-b3de-3d0760828fad"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "fedrick"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "cf1b2fc9-142d-4838-99b8-03d773cdae42"
+            },
+            "userID": {
+                "S": "titijexy@decabg.eu"
+            },
+            "userFirstName": {
+                "S": "brain"
+            },
+            "createdAt": {
+                "S": "2023-03-10T04:47:53.443Z"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#02ddd075-4976-4953-ae21-5ca68ff5716f"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "state"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "ac53c21c-964e-4804-9038-2fb68eebd709"
+            },
+            "userID": {
+                "S": "hulowovy@lyft.live"
+            },
+            "userFirstName": {
+                "S": "gannawarra"
+            },
+            "createdAt": {
+                "S": "2023-05-23T13:47:41.308Z"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "0ce49691-eee6-40da-b8f5-53734529318a"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "Kristy"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "204b1de8-040c-4714-92b7-3d8341a216ca"
+            },
+            "userID": {
+                "S": "covoh52463@mitigado.com"
+            },
+            "userFirstName": {
+                "S": "George"
+            },
+            "createdAt": {
+                "S": "2023-04-03T03:24:09.847Z"
+            },
+            "comment": {
+                "S": "I think we should shut down all Coal power plants"
+            },
+            "commentType": {
+                "S": "POSITIVE"
+            },
+            "postID": {
+                "S": "MP#52415f40-3f15-4138-aa07-efc2b7032087"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "Cruze"
+            },
+            "likesCount": {
+                "N": "1"
+            },
+            "commentID": {
+                "S": "82b6fa00-d15e-4e43-aaac-dabe169d72a7"
+            },
+            "userID": {
+                "S": "hevame5665@mitigado.com"
+            },
+            "userFirstName": {
+                "S": "Jude"
+            },
+            "comment": {
+                "S": "I don't think shutting down power plants will fix global warming"
+            },
+            "createdAt": {
+                "S": "2023-04-03T03:21:51.764Z"
+            },
+            "commentType": {
+                "S": "NEGATIVE"
+            },
+            "postID": {
+                "S": "MP#52415f40-3f15-4138-aa07-efc2b7032087"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "jenner"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "980fc1ea-48fa-4a6d-a8f4-1f7ef9c80a9e"
+            },
+            "userID": {
+                "S": "suxixomy@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "kendel"
+            },
+            "createdAt": {
+                "S": "2023-05-22T15:48:00.725Z"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "9b146818-2226-4103-ae2d-3fe5a8594ccb"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "thomas"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "111b711c-6e2f-4425-b4be-3a9c40ac77e5"
+            },
+            "userID": {
+                "S": "ripugegy@decabg.eu"
+            },
+            "userFirstName": {
+                "S": "kim"
+            },
+            "createdAt": {
+                "S": "2023-02-25T17:03:50.879Z"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#1628bb91-646a-4d3c-a0ea-b77ce94fd2bd"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "wilson"
+            },
+            "likesCount": {
+                "N": "1"
+            },
+            "commentID": {
+                "S": "292eb489-7a83-4ff0-a938-721cec5775ae"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "userFirstName": {
+                "S": "Ginny"
+            },
+            "comment": {
+                "S": "test comnt from ginny"
+            },
+            "createdAt": {
+                "S": "2023-03-07T06:48:31.558Z"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#1628bb91-646a-4d3c-a0ea-b77ce94fd2bd"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "wilson"
+            },
+            "likesCount": {
+                "N": "2"
+            },
+            "commentID": {
+                "S": "63a49141-b11e-4f30-8527-23825739a863"
+            },
+            "userID": {
+                "S": "chathuni@swivelgroup.com.au"
+            },
+            "userFirstName": {
+                "S": "Ginny"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "createdAt": {
+                "S": "2023-03-07T06:54:19.234Z"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#1628bb91-646a-4d3c-a0ea-b77ce94fd2bd"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "wilsonden"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "67d7f70a-bd0f-4df7-8a96-68cd9dae99f1"
+            },
+            "userID": {
+                "S": "xovemafa@lyricspad.net"
+            },
+            "userFirstName": {
+                "S": "ron"
+            },
+            "createdAt": {
+                "S": "2023-02-25T08:12:50.531Z"
+            },
+            "comment": {
+                "S": "test https://www.wikipedia.org/"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#1628bb91-646a-4d3c-a0ea-b77ce94fd2bd"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "thomas"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "78fb6cf5-b2dc-4172-8d99-527191e505e4"
+            },
+            "userID": {
+                "S": "ripugegy@decabg.eu"
+            },
+            "userFirstName": {
+                "S": "kim"
+            },
+            "createdAt": {
+                "S": "2023-02-25T07:13:15.464Z"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#1628bb91-646a-4d3c-a0ea-b77ce94fd2bd"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "thomas"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "da0008f4-ec08-4461-a431-9c30796e61fb"
+            },
+            "userID": {
+                "S": "ripugegy@decabg.eu"
+            },
+            "userFirstName": {
+                "S": "kim"
+            },
+            "createdAt": {
+                "S": "2023-02-25T17:04:03.907Z"
+            },
+            "comment": {
+                "S": "Political survey questions are questions asked to gather the opinions and attitudes of potential voters. Such questionnaires are used by political action committees, city council members, political consultants, school board districts, government agencies, and political candidates. Political survey questions help you identify supporters and understand what the public needs. Using such questions, a political candidate or an organization can formulate policies to gain support from these people. Such survey questions can help map the political landscape, strategize marketing messages, and increase support from potential voters. For example, a political candidate wants to understand the beliefs and opinions of his target population. In such a case, political survey questions enable them to gather information that can be used to increase the presence and formulate social and political activities based on this data.Political survey questions are questions asked to gather the opinions and attitudes of potential voters. Such questionnaires are used by political action committees, city council members, political consultants, school board districts, government agencies, and political candidates. Political survey questions help you identify supporters and understand what the public needs. Using such questions, a political candidate or an organization can formulate policies to gain support from these people. Such survey questions can help map the political landscape, strategize marketing messages, and increase support from potential voters. For example, a political candidate wants to understand the beliefs and opinions of his target population. In such a case, political survey questions enable them to gather information that can be used to increase the presence and formulate social and political activities based on this data.Political survey questions help you identify supporters and understand what the public understand what the public understand what the underst @#$%^  unde"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#1628bb91-646a-4d3c-a0ea-b77ce94fd2bd"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "thomas"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "f2453b11-0005-4fac-a826-02f173e5ccfc"
+            },
+            "userID": {
+                "S": "ripugegy@decabg.eu"
+            },
+            "userFirstName": {
+                "S": "kim"
+            },
+            "createdAt": {
+                "S": "2023-02-25T17:03:46.158Z"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#1628bb91-646a-4d3c-a0ea-b77ce94fd2bd"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "state"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "4ec3918f-9c85-4217-ac9e-6f9bdd7bd881"
+            },
+            "userID": {
+                "S": "hulowovy@lyft.live"
+            },
+            "userFirstName": {
+                "S": "gannawarra"
+            },
+            "comment": {
+                "S": "test https://charcounter.com/en/"
+            },
+            "createdAt": {
+                "S": "2023-05-23T14:16:35.177Z"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#1c0d3308-4fac-477c-b5b1-83ea3a2f8d70"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "peter"
+            },
+            "likesCount": {
+                "N": "2"
+            },
+            "commentID": {
+                "S": "eca0a695-b836-43e9-8eb1-e8aaf52d4207"
+            },
+            "userID": {
+                "S": "kyfelufe@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "cherry"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "createdAt": {
+                "S": "2023-02-24T11:52:14.963Z"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#e4b42376-eb11-4653-af39-454d0d0adecb"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "Kowalski"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "46fd7616-63e9-448a-8ada-2da4b614538f"
+            },
+            "userID": {
+                "S": "eddie@itsourvoice.com"
+            },
+            "userFirstName": {
+                "S": "Eddie"
+            },
+            "createdAt": {
+                "S": "2023-06-04T11:05:03.333Z"
+            },
+            "comment": {
+                "S": "😄😁"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "69911238-6910-4de1-8bc7-eb89f06aa54a"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "Kowalski"
+            },
+            "likesCount": {
+                "N": "1"
+            },
+            "commentID": {
+                "S": "8d01db3f-6830-4702-a849-6341f792cb3c"
+            },
+            "userID": {
+                "S": "eddie@itsourvoice.com"
+            },
+            "userFirstName": {
+                "S": "Eddie"
+            },
+            "comment": {
+                "S": "This should be an awesome event!"
+            },
+            "createdAt": {
+                "S": "2023-06-06T02:21:14.658Z"
+            },
+            "commentType": {
+                "S": "POSITIVE"
+            },
+            "postID": {
+                "S": "433d7756-6142-45cb-9d4b-778ac709ac0d"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "jenner"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "c1a5ecbb-6b80-453c-bfc4-8a9e52337a7a"
+            },
+            "userID": {
+                "S": "suxixomy@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "kendel"
+            },
+            "createdAt": {
+                "S": "2023-02-27T03:32:57.278Z"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "2e8c7cb7-8348-4024-9492-7f7dbc41155a"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "Galabada"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "282fa9a2-b322-4886-a1fb-76f39bc969b9"
+            },
+            "userID": {
+                "S": "varuna@swivelgroup.com.au"
+            },
+            "userFirstName": {
+                "S": "Varuna"
+            },
+            "comment": {
+                "S": "this is true"
+            },
+            "createdAt": {
+                "S": "2023-04-21T11:09:03.421Z"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#19d73257-dc89-4967-828e-59c7b2146151"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "Cruze"
+            },
+            "likesCount": {
+                "N": "1"
+            },
+            "commentID": {
+                "S": "229c27b0-3468-40a2-8779-8e0af4381dd0"
+            },
+            "userID": {
+                "S": "hevame5665@mitigado.com"
+            },
+            "userFirstName": {
+                "S": "Jude"
+            },
+            "comment": {
+                "S": "test comment"
+            },
+            "createdAt": {
+                "S": "2023-03-30T07:41:53.401Z"
+            },
+            "commentType": {
+                "S": "POSITIVE"
+            },
+            "postID": {
+                "S": "MP#655b6a97-f08e-49af-af9e-face91204a88"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "Cruze"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "6ab07015-5ee3-4589-9aec-7ee0b56052a8"
+            },
+            "userID": {
+                "S": "hevame5665@mitigado.com"
+            },
+            "userFirstName": {
+                "S": "Jude"
+            },
+            "createdAt": {
+                "S": "2023-03-30T06:20:59.878Z"
+            },
+            "comment": {
+                "S": "I have same experience. "
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#655b6a97-f08e-49af-af9e-face91204a88"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "jenner"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "f2815161-658b-4b5c-beaf-c9ce25142589"
+            },
+            "userID": {
+                "S": "suxixomy@brand-app.biz"
+            },
+            "userFirstName": {
+                "S": "kendel"
+            },
+            "createdAt": {
+                "S": "2023-03-08T15:50:29.151Z"
+            },
+            "comment": {
+                "S": "test@123Political survey questions are questions asked to gather the opinions and attitudes of potential voters. Such questionnaires are used by political action committees, city council members, political consultants, school board districts, government agencies, and political candidates.\n\nPolitical survey questions help you identify supporters and understand what the public needs. Using such questions, a political candidate or an organization can formulate policies to gain support from these people. Such survey questions can help map the political landscape, strategize marketing messages, and increase support from potential voters."
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "954bfdda-69c1-4676-8fc0-b558e87fe249"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "thomas"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "0247259c-d81a-4b0d-8ab4-cbe60a282d9a"
+            },
+            "userID": {
+                "S": "ripugegy@decabg.eu"
+            },
+            "userFirstName": {
+                "S": "kim"
+            },
+            "createdAt": {
+                "S": "2023-05-16T05:11:41.280Z"
+            },
+            "comment": {
+                "S": "tetContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham."
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#3059369c-5cb0-4b2a-832c-48e9cff08e4f"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "thomas"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "6435ac28-2bc4-4994-9947-64f7a78d7d3a"
+            },
+            "userID": {
+                "S": "ripugegy@decabg.eu"
+            },
+            "userFirstName": {
+                "S": "kim"
+            },
+            "createdAt": {
+                "S": "2023-05-16T05:11:49.284Z"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "commentType": {
+                "S": "POSITIVE"
+            },
+            "postID": {
+                "S": "MP#3059369c-5cb0-4b2a-832c-48e9cff08e4f"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "thomas"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "7a82f1ad-cbb5-424f-bfe3-593c513b8f3e"
+            },
+            "userID": {
+                "S": "ripugegy@decabg.eu"
+            },
+            "userFirstName": {
+                "S": "kim"
+            },
+            "createdAt": {
+                "S": "2023-05-16T05:11:45.547Z"
+            },
+            "comment": {
+                "S": "test"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#3059369c-5cb0-4b2a-832c-48e9cff08e4f"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "thomas"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "b8b97043-d920-45b6-ac25-1514ac9c7097"
+            },
+            "userID": {
+                "S": "ripugegy@decabg.eu"
+            },
+            "userFirstName": {
+                "S": "kim"
+            },
+            "createdAt": {
+                "S": "2023-05-16T05:11:33.218Z"
+            },
+            "comment": {
+                "S": "tet"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#3059369c-5cb0-4b2a-832c-48e9cff08e4f"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "thomas"
+            },
+            "likesCount": {
+                "N": "0"
+            },
+            "commentID": {
+                "S": "b8fad7c0-5ed8-4a54-b1b0-f3af26f07b14"
+            },
+            "userID": {
+                "S": "ripugegy@decabg.eu"
+            },
+            "userFirstName": {
+                "S": "kim"
+            },
+            "createdAt": {
+                "S": "2023-05-16T05:11:53.042Z"
+            },
+            "comment": {
+                "S": "tet"
+            },
+            "commentType": {
+                "S": "NEGATIVE"
+            },
+            "postID": {
+                "S": "MP#3059369c-5cb0-4b2a-832c-48e9cff08e4f"
+            }
+        },
+        {
+            "userLastName": {
+                "S": "state"
+            },
+            "likesCount": {
+                "N": "1"
+            },
+            "commentID": {
+                "S": "88547b63-dc5f-480e-8fb9-f2872efeeb46"
+            },
+            "userID": {
+                "S": "hulowovy@lyft.live"
+            },
+            "userFirstName": {
+                "S": "gannawarra"
+            },
+            "comment": {
+                "S": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search fort is a long established fact that a reader wil fort is a long established fact that a reader wil   long established fact that a reader wil  long establish😇"
+            },
+            "createdAt": {
+                "S": "2023-05-23T14:15:12.183Z"
+            },
+            "commentType": {
+                "S": "GENERAL"
+            },
+            "postID": {
+                "S": "MP#1e4a5e7a-c052-4546-ba72-a8faa9c60d96"
+            }
+        }
+    ],
+    "Count": 79,
+    "ScannedCount": 79,
+    "ConsumedCapacity": null
+}

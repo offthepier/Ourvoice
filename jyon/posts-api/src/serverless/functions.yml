@@ -1,0 +1,367 @@
+createPost:
+  handler: src/functions/posts/createPost.handler
+  events:
+    - http:
+        path: /posts
+        method: post
+        bodyType: ICreatePost
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+getPosts:
+  handler: src/functions/posts/getPost.handler
+  events:
+    - http:
+        path: /posts/user/feed
+        method: post
+        bodyType: INewsFeed
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+getUserPosts:
+  handler: src/functions/posts/getUserPosts.handler
+  events:
+    - http:
+        path: /posts/user/latest
+        method: post
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+getTopProposals:
+  handler: src/functions/posts/getTopProposals.handler
+  events:
+    - http:
+        path: /posts/proposals/top
+        method: get
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+createChallenge:
+  handler: src/functions/challenges/createChallenge.handler
+  events:
+    - http:
+        path: /challenges
+        method: post
+        bodyType: ICreateChallenge
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+getChallenges:
+  handler: src/functions/challenges/getChallenges.handler
+  events:
+    - http:
+        path: /challenges
+        method: get
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+getTopChallenges:
+  handler: src/functions/challenges/getTopChallenges.handler
+  events:
+    - http:
+        path: /challenges/top
+        method: get
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+followUser:
+  handler: src/functions/followers/followUser.handler
+  events:
+    - http:
+        path: /followers/user
+        method: post
+        bodyType: IFollowUser
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+followChallenge:
+  handler: src/functions/followers/followChallenge.handler
+  events:
+    - http:
+        path: /followers/challenge
+        method: post
+        bodyType: IFollowChallenge
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+followPost:
+  handler: src/functions/followers/followPost.handler
+  events:
+    - http:
+        path: /followers/post
+        method: post
+        bodyType: IFollowPost
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+unfollowUser:
+  handler: src/functions/followers/unfollowUser.handler
+  events:
+    - http:
+        path: /followers/unfollow/user
+        method: post
+        bodyType: IFollowUser
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+unfollowChallenge:
+  handler: src/functions/followers/unfollowChallenge.handler
+  events:
+    - http:
+        path: /followers/unfollow/challenge
+        method: post
+        bodyType: IUnfollowChallenge
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+unfollowPost:
+  handler: src/functions/followers/unfollowPost.handler
+  events:
+    - http:
+        path: /followers/unfollow/post
+        method: post
+        bodyType: IUnfollowPost
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+getUserFollowingList:
+  handler: src/functions/followers/getUserFollowings.handler
+  events:
+    - http:
+        path: /following/user
+        method: get
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+getUserFollowersList:
+  handler: src/functions/followers/getUserFollowers.handler
+  events:
+    - http:
+        path: /followers/user
+        method: get
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+getUserFollowersCount:
+  handler: src/functions/followers/getUserFollowersCount.handler
+  events:
+    - http:
+        path: /followers/user/count
+        method: get
+        request:
+          parameters:
+            querystrings:
+              userId: true
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+getUserFollowingStatus:
+  handler: src/functions/followers/getUserFollowingStatus.handler
+  events:
+    - http:
+        path: /following/user/status
+        method: get
+        request:
+          parameters:
+            querystrings:
+              userId: true
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+createComment:
+  handler: src/functions/comments/createComment.handler
+  events:
+    - http:
+        path: /posts/comment
+        method: post
+        bodyType: CreateComment
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+getCommentsByPost:
+  handler: src/functions/comments/getCommentsByPost.handler
+  events:
+    - http:
+        path: /posts/comments/all
+        method: post
+        bodyType: GetCommentsByPost
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+voteComment:
+  handler: src/functions/votes/voteComment.handler
+  events:
+    - http:
+        path: /posts/vote/comment
+        method: post
+        bodyType: VoteComment
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+votePost:
+  handler: src/functions/votes/votePost.handler
+  events:
+    - http:
+        path: /posts/vote/post
+        method: post
+        bodyType: VotePost
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+getPostVotes:
+  handler: src/functions/posts/getUserActivity.handler
+  events:
+    - http:
+        path: /posts/user/activities
+        method: get
+        request:
+          parameters:
+            querystrings:
+              postId: true
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+getNotifications:
+  handler: src/functions/notifications/getUserNotifications.handler
+  events:
+    - http:
+        path: /notifications/user/all
+        method: post
+        bodyType: GetNotifications
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+getLatestNotifications:
+  handler: src/functions/notifications/getLatestUserNotifications.handler
+  events:
+    - http:
+        path: /notifications/user/latest
+        method: get
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+markAsReadNotification:
+  handler: src/functions/notifications/markAsRead.handler
+  events:
+    - http:
+        path: /notifications/user/markRead
+        method: post
+        bodyType: MarkAsReadNotification
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+search:
+  handler: src/functions/search/search.handler
+  events:
+    - http:
+        path: /search
+        method: get
+        request:
+          parameters:
+            querystrings:
+              searchText: true
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+getPostById:
+  handler: src/functions/posts/getPostById.handler
+  events:
+    - http:
+        path: /posts
+        method: get
+        request:
+          parameters:
+            querystrings:
+              postId: true
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+getPostByChallengeId:
+  handler: src/functions/posts/getPostsByChallenge.handler
+  events:
+    - http:
+        path: /challenges/posts/{limit}
+        method: get
+        request:
+          parameters:
+            querystrings:
+              challengeId: true
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}
+
+generateDailySummary:
+  handler: src/functions/cronJobs/generateDailySummary.handler
+  timeout: 900 # Set a timeout of 1 hour (3600 seconds)
+  events:
+    - schedule:
+        name: "${opt:stage}-dailySummaryGeneration"
+        description: Trigger the background task every one hour
+        rate: cron(0 20 * * ? *)
+
+updatePost:
+  handler: src/functions/posts/updatePost.handler
+  events:
+    - http:
+        path: /posts
+        method: put
+        bodyType: ICreatePost
+        cors: true
+        authorizer:
+          name: authorizer
+          arn: ${self:custom.userPoolArn}

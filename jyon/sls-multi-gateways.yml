@@ -1,0 +1,15 @@
+port: 4000
+stage: dev
+services:
+  - srvName: your-voice-posts-api
+    srvPath: posts-api
+    srvSource: ./posts-api
+    stripBasePath: true
+  - srvName: your-voice-survey-api
+    srvPath: survey-api
+    srvSource: ./survey-api
+    stripBasePath: true
+  - srvName: your-voice-user-managment-api
+    srvPath: user-api
+    srvSource: ./user-managment-api
+    stripBasePath: true

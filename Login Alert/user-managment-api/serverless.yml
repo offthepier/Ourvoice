@@ -1,0 +1,68 @@
+service: your-voice-user-managment-api
+frameworkVersion: "3"
+useDotenv: true
+
+plugins:
+  - serverless-auto-swagger
+  - serverless-offline
+  - serverless-esbuild
+  - serverless-dotenv-plugin
+
+provider:
+  name: aws
+  runtime: nodejs16.x
+  lambdaHashingVersion: 20201221
+  stage: ${opt:stage, 'dev'}
+  region: ap-southeast-2
+  apiGateway:
+    binaryMediaTypes:
+      - "multipart/form-data"
+custom:
+  esbuild:
+    bundle: true
+    minify: false
+    sourcemap: true
+    exclude:
+      - "aws-sdk"
+    target: "node16"
+    define:
+      require.resolve: "undefined"
+    platform: "node"
+    concurrency: 10
+
+  userPoolArn: ${env:AWS_USER_POOL_ARN}
+
+  autoswagger:
+    title: "User Management API Documentation"
+    apiType: "http"
+    generateSwaggerOnDeploy: true
+    typefiles: ["./src/types/user.d.ts"]
+    schemes: ["https"]
+    host: "5106bah4p2.execute-api.ap-southeast-2.amazonaws.com"
+    basePath: "/${opt:stage}"
+    apiKeyHeaders: ["Authorization"]
+
+
+  serverless-offline:
+    httpPort: 4500
+
+  iam:
+    role:
+      statements:
+        - Effect: Allow
+          Action:
+            - "dynamodb:GetItem"
+            - "dynamodb:Scan"
+            - "dynamodb:PutItem"
+            - "ses:SendEmail"
+            - "ses:SendRawEmail"
+          Resource:
+            - { "Fn::GetAtt": ["aus_geocodes", "Arn"] }
+            - { "Fn::GetAtt": ["User", "Arn"] }
+            - { "Fn::GetAtt": ["invitemp", "Arn"] }
+            - { "Fn::GetAtt": ["admin", "Arn"] }
+
+functions: ${file(src/serverless/functions.yml)}
+
+resources: ${file(src/serverless/dynamodb.yml)}
+

@@ -1,0 +1,1 @@
+export { PostSkelton } from "./PostSkelton";
